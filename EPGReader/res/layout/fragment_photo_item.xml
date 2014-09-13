@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/link_item_layout" >
+
+    <TextView
+        android:id="@+id/titleText"
+        style="@style/photo_item_text"
+        android:text="Default text" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        style="@style/photo_item_image"
+        android:layout_below="@id/titleText"
+        android:src="@drawable/test_thumbnail" />
+
+    <Button
+        android:id="@+id/buttonView"
+        style="@style/show_button_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/imageView"
+        android:background="@drawable/show_button"
+        android:focusable="false"
+        android:text="@string/view_story" />
+
+    <!-- Add this to cover the fragment behind this one. -->
+
+    <TextView
+        android:id="@+id/fillText"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_below="@id/buttonView"
+        android:text="" />
+
+</RelativeLayout>

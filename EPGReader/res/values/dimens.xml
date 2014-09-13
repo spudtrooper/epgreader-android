@@ -1,0 +1,15 @@
+<resources>
+
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="widget_margin">8dp</dimen>
+    <dimen name="default_padding">5dp</dimen>
+    <dimen name="list_image_min_width">135dp</dimen>
+    <dimen name="list_item_height">140dp</dimen>
+    <dimen name="thumbnail_width">135px</dimen>
+    <dimen name="thumbnail_height">100px</dimen>
+    <dimen name="item_list_width">400dp</dimen>
+    <dimen name="header_reload_height">23px</dimen>
+    <dimen name="header_reload_width">20px</dimen>
+
+</resources>

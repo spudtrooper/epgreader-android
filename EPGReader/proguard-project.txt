@@ -1,0 +1,17 @@
+-dontskipnonpubliclibraryclasses
+-forceprocessing
+-optimizationpasses 5
+-dontpreverify
+-verbose
+-optimizations !code/simplification/arithmetic,!field/*,!class/merging/*
+-repackageclasses ''
+
+-keep class * extends android.app.Activity
+-assumenosideeffects class android.util.Log {
+    public static *** d(...);
+    public static *** v(...);
+}
+
+-keepclassmembers class **.R$* {
+    public static <fields>;
+}

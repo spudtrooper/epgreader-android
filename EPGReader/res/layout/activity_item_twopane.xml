@@ -1,0 +1,29 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content" >
+
+    <FrameLayout
+        android:id="@+id/header_fragment"
+        style="@style/header" />
+
+    <FrameLayout
+        android:id="@+id/item_list_fragment"
+        android:layout_width="@dimen/item_list_fragment_width"
+        android:layout_height="fill_parent"
+        android:layout_below="@id/header_fragment"
+        tools:layout="@android:layout/list_content" />
+
+    <FrameLayout
+        android:id="@+id/item_detail_container"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_below="@id/header_fragment"
+        android:layout_toRightOf="@id/item_list_fragment" />
+
+    <SurfaceView
+        android:layout_width="0px"
+        android:layout_height="0px"
+        android:visibility="gone" />
+
+</RelativeLayout>

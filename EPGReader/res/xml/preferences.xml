@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <EditTextPreference
+        android:defaultValue="@string/default_epg_url"
+        android:key="epgUrl"
+        android:shouldDisableView="true"
+        android:summary="@string/epg_url_summary"
+        android:title="@string/epg_url" />
+
+</PreferenceScreen>

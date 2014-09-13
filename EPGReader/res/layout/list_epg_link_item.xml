@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/list_item" >
+
+    <RelativeLayout
+        android:id="@+id/topLayout"
+        style="@style/list_item_part"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <ImageView
+            android:id="@+id/listImage"
+            style="@style/list_item_image"
+            android:layout_alignParentTop="true"
+            android:contentDescription="@string/story_image"
+            android:visibility="gone" />
+
+        <TextView
+            android:id="@+id/listTitle"
+            style="@style/list_item_title"
+            android:layout_alignParentTop="true"
+            android:layout_alignTop="@+id/listImage"
+            android:layout_toRightOf="@+id/listImage" />
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/listDescription"
+        style="@style/list_item_description"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/topLayout"
+        android:text="TODO Description" />
+
+    <Button
+        android:id="@+id/linkItemButtonView"
+        style="@style/show_button_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_below="@+id/listDescription"
+        android:background="@drawable/show_button"
+        android:focusable="false"
+        android:text="TODO"
+        android:visibility="gone" />
+
+</RelativeLayout>

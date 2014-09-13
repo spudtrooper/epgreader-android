@@ -1,0 +1,5 @@
+<resources>
+
+    <dimen name="item_list_fragment_width">400dp</dimen>
+
+</resources>

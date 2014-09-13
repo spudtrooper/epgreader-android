@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content" >
+
+    <ImageView
+        android:id="@+id/image"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:layout_margin="10dp"
+        android:contentDescription="@string/tmz_main_image" />
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignTop="@+id/image"
+        android:layout_toRightOf="@+id/image"
+        android:textSize="16sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/description"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/title"
+        android:layout_marginBottom="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_toRightOf="@+id/image"
+        android:maxLines="6"
+        android:textSize="14sp" />
+
+    <ImageButton
+        android:id="@+id/prevButton"
+        android:layout_width="55dp"
+        android:layout_height="55dp"
+        android:layout_below="@+id/description"
+        android:background="@drawable/appwidget_dark_bg_clickable"
+        android:contentDescription="@string/previous_story"
+        android:src="@drawable/previous" />
+
+    <ImageButton
+        android:id="@+id/openButton"
+        android:layout_width="55dp"
+        android:layout_height="55dp"
+        android:layout_below="@+id/description"
+        android:layout_toRightOf="@+id/prevButton"
+        android:background="@drawable/appwidget_dark_bg_clickable"
+        android:contentDescription="@string/open_story"
+        android:src="@drawable/play" />
+
+    <ImageButton
+        android:id="@+id/nextButton"
+        android:layout_width="55dp"
+        android:layout_height="55dp"
+        android:layout_below="@+id/description"
+        android:layout_toRightOf="@+id/openButton"
+        android:background="@drawable/appwidget_dark_bg_clickable"
+        android:contentDescription="@string/next_story"
+        android:src="@drawable/forward" />
+
+</RelativeLayout>

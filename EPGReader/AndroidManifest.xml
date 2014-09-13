@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.jeffpalm.android.epg.app"
+    android:versionCode="2"
+    android:versionName="1.01" >
+
+    <uses-sdk
+        android:minSdkVersion="13"
+        android:targetSdkVersion="19" />
+
+    <uses-permission android:name="android.permission.INTERNET" >
+    </uses-permission>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="false"
+        android:theme="@style/AppTheme" android:name="EPGApplication">
+        <activity
+            android:name="com.jeffpalm.android.epg.app.ItemListActivity"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.Light.NoTitleBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.jeffpalm.android.epg.app.TMZLinkItemActivity"
+            android:label="@string/activity_tmz_link_item"
+            android:theme="@android:style/Theme.Light.NoTitleBar" >
+            <intent-filter>
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.jeffpalm.android.epg.app.TMZVideoActivity"
+            android:label="@string/activity_tmz_video"
+            android:theme="@android:style/Theme.Light.NoTitleBar" >
+            <intent-filter>
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.jeffpalm.android.epg.app.EPGReaderPreferencesActivity"
+            android:label="@string/tmz_preferences"
+            android:theme="@android:style/Theme.Black" >
+        </activity>
+    </application>
+
+</manifest>

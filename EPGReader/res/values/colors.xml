@@ -1,0 +1,14 @@
+<resources>
+
+    <color name="header_background">#565656</color>
+    <color name="header_background_pressed">#676767</color>
+    <color name="header_background_selected">#787878</color>
+    <color name="header_foreground">#ffffff</color>
+    <color name="list_item_background">#ffffff</color>
+    <color name="list_item_foreground">#333333</color>
+    <color name="list_item_background_selected">#dddddd</color>
+    <color name="list_item_background_pressed">#eeeeee</color>
+    <color name="link_item_background">#000000</color>
+    <color name="link_item_foreground">#ffffff</color>
+
+</resources>

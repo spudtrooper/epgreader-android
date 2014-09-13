@@ -1,0 +1,2130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<epg
+    id="30681"
+    name="Wed Feb 05 05:08:10 PM UTC 2014 // Revert to normal"
+    carrier="TMZ"
+    lastModified="Tue, 06 May 2014 08:46:59 +0000" >
+
+    <section
+        id="kboe5m_ate3w0_1fts2jn"
+        name="BREAKING NEWS"
+        alias="BREAKING NEWS"
+        href="/vsnaxepg/epgxml.do?id=kboe5m_ate3w0_1fts2jn&amp;carrier=TMZ"
+        pagelength="30"
+        zone="a14ae24a6aec9b0" >
+
+        <adunit
+            id="kt6lq4_a6lz88_9m0bav"
+            type="banner" >
+
+            <networks
+                id="n0j93b_8gn1aentg_8w34ln"
+                level="0" >
+
+                <network
+                    id="n0j93b_8gn1adf54_1yk6d2r"
+                    code="iAd"
+                    weight="20" />
+
+                <network
+                    id="n0j93b_8gn1adef0_679zx3"
+                    code="Quattro"
+                    weight="0" />
+
+                <network
+                    id="n0j93b_8gn1adds8_171sbrk"
+                    code="Amazon"
+                    weight="0" />
+
+                <network
+                    id="n0j93b_8gn1add5g_1b86t39"
+                    code="MM"
+                    weight="30" />
+
+                <network
+                    id="n0j93b_8gn1adcio_1dhf1is"
+                    code="AdMob"
+                    weight="10" />
+
+                <network
+                    id="n0j93b_8gn1adbu8_8z25cz"
+                    code="Rhythm"
+                    weight="40" />
+            </networks>
+
+            <networks
+                id="n0j93b_8gn1adbas_rbz7bi"
+                level="1" >
+
+                <network
+                    id="n0j93b_8gn1adab8_1m8osfl"
+                    code="iAd"
+                    weight="10" />
+
+                <network
+                    id="n0j93b_8gn1ad9og_nom0a8"
+                    code="Quattro"
+                    weight="0" />
+
+                <network
+                    id="n0j93b_8gn1ad8zg_13nl5np"
+                    code="Amazon"
+                    weight="0" />
+
+                <network
+                    id="n0j93b_8gn1ad8co_1lafy21"
+                    code="MM"
+                    weight="15" />
+
+                <network
+                    id="n0j93b_8gn1ad7pw_ky61l5"
+                    code="AdMob"
+                    weight="5" />
+
+                <network
+                    id="n0j93b_8gn1ad734_3vyz0i"
+                    code="Rhythm"
+                    weight="70" />
+            </networks>
+        </adunit>
+
+        <adunit
+            id="kt6lr4_a5kkp8_cfseuo"
+            type="interstitial" >
+
+            <param
+                id="n0j93b_8gn1aby5w_11ywrvk"
+                key="spacing"
+                value="5" />
+
+            <param
+                id="n0j93b_8gn1abxe4_vffrc1"
+                key="session_offset"
+                value="2" />
+
+            <param
+                id="n0j93b_8gn1abwo0_1rqmtjk"
+                key="gallery_offset"
+                value="0" />
+        </adunit>
+
+        <link_item
+            id="2293460"
+            name="EXCLUSIVE: Usher -- Cop Chase Ends with Photo Op -- But NO TICKET [VIDEO]"
+            category="TMZ"
+            duration="69.32"
+            lastViewed="Tue, 06 May 2014 08:46:19 +0000"
+            pubdate="Tue, 06 May 2014 08:00:00 +0000"
+            series="TMZ Text News"
+            share_url="http://www.tmz.com/2014/05/06/usher-police-video-tailgate-rock-and-reillys-sheriff/"
+            views="0"
+            votes="0" >
+
+            <description>
+Usher's celebrity burns bright on the Sunset Strip -- so bright he can turn a chasing cop into a photo-seeking fan and walk off Scott-free. The video is nuts -- you can see Usher driving on Sunset early Sunday morning (around 2AM) as he's aggressively followed by an L.A. County Sheriff's deputy.  At one point, Usher coasts through a yellow light ... and the cop car zips after him, running a red. Usher pulls over outside Rock &amp; Reilly's Pub -- and next thing you see is the deputy posing with the singer for a photo ... inside the bar. A Sheriff's source insists it was NOT a traffic stop ... but the car's red and blues are flashing and the spotlight is pointed toward Usher's whip.  And it appears Usher had been speeding when he first caught the deputy's eye. The source added it's NOT against the rules for deputies to take pics with celebs.
+            </description>
+
+            <thumbnail src="http://img.geo.rnmd.net/image/00000320-11599419.135x100.jpg" />
+
+            <content
+                id="2293460"
+                name="EXCLUSIVE: Usher -- Cop Chase Ends with Photo Op -- But NO TICKET [VIDEO]"
+                category="TMZ"
+                duration="69.32"
+                lastViewed="Tue, 06 May 2014 08:46:19 +0000"
+                mediaType="video"
+                pubdate="Tue, 06 May 2014 08:00:00 +0000"
+                series="TMZ Text News"
+                share_url="http://www.tmz.com/2014/05/06/usher-police-video-tailgate-rock-and-reillys-sheriff/"
+                url="00004982-11599412.mp4"
+                views="0"
+                votes="0" >
+
+                <thumbnail src="http://img.geo.rnmd.net/image/00000320-11599419.135x100.jpg" />
+            </content>
+        </link_item>
+
+        <link_item
+            id="2293459"
+            name="EXCLUSIVE: Ben Affleck -- Play Blackjack Downtown, You Can Count on Us!"
+            category="TMZ"
+            pubdate="Tue, 06 May 2014 07:50:00 +0000"
+            series="TMZ Text News"
+            share_url="http://www.tmz.com/2014/05/06/ben-affleck-blackjack-hard-rock-las-vegas-d-casino/"
+            views="0"
+            votes="0" >
+
+            <description>
+Ben Affleck can keep doubling down and splitting Aces in Sin City ... because he just got offered a blackjack safe haven where he won't be 86'd for card counting. Derek Stevens owns The D Casino Hotel and Golden Gate Hotel in downtown Vegas -- and he wants Ben to bring his chips from the strip without worrying about getting swooped up by security. TMZ broke the story -- Ben was escorted out of the Hard Rock Casino last week after security labeled him an "advantage player," believing he was counting cards in blackjack. Stevens tells us, "The D Las Vegas is not afraid of Ben Affleck winning a few hands in a row," adding, "Ben can come play blackjack and not worry about security walking him out!" Heading off the strip doesn't mean you lose whale status -- The D can accommodate high rollers up to $10K per hand. Plus Golden Gate has the best $2.99 shrimp cocktail in town.  It used to be $1.99 -- damn inflation.
+            </description>
+
+            <thumbnail src="http://img.geo.rnmd.net/image/00000320-11599415.135x100.jpg" />
+
+            <content
+                id="2293459"
+                name="EXCLUSIVE: Ben Affleck -- Play Blackjack Downtown, You Can Count on Us!"
+                category="TMZ"
+                mediaType="text"
+                pubdate="Tue, 06 May 2014 07:50:00 +0000"
+                series="TMZ Text News"
+                share_url="http://www.tmz.com/2014/05/06/ben-affleck-blackjack-hard-rock-las-vegas-d-casino/"
+                url="http://img.geo.rnmd.net/image/00000320-11599415.jpg"
+                views="0"
+                votes="0" >
+
+                <thumbnail src="http://img.geo.rnmd.net/image/00000320-11599415.135x100.jpg" />
+            </content>
+        </link_item>
+
+        <link_item
+            id="2293457"
+            name="EXCLUSIVE: Ray J -- I Just Blew $500k on New Cars ... Thanks to VH1"
+            category="TMZ"
+            pubdate="Tue, 06 May 2014 07:20:00 +0000"
+            series="TMZ Text News"
+            share_url="http://www.tmz.com/2014/05/06/ray-j-buys-cars-bentley-ferrari-vh1-love-and-hip-hop/"
+            views="0"
+            votes="0" >
+
+            <description>
+It's the most baller move Ray J's made since shaking Kim Kardashian's cakes to camera -- he just celebrated a 7-figure TV deal by dropping half a mil on his and hers exotic sports cars. Ray sunk the massive chunk o' dough into a Bentley Continental convertible for his gf, Princess Love -- and a Ferrari 458 for himself ... all on the heels of signing a fat new contract with VH1. Sources close to the sex tape star/singer tell TMZ the deal has 6 zeroes attached -- and Ray will not only star in "Love and Hip Hop L.A." ... but also develop shows for the network with his manager David Weintraub. We're told RJ will appear in some of the shows, and produce others. Real talk though -- he's mostly gonna enjoy the hell outta the Ferrari. Hittin' it first ... the gift that keeps on giving.
+            </description>
+
+            <thumbnail src="http://img.geo.rnmd.net/image/00000320-11599405.135x100.jpg" />
+
+            <content
+                id="2293457"
+                name="EXCLUSIVE: Ray J -- I Just Blew $500k on New Cars ... Thanks to VH1"
+                category="TMZ"
+                mediaType="text"
+                pubdate="Tue, 06 May 2014 07:20:00 +0000"
+                series="TMZ Text News"
+                share_url="http://www.tmz.com/2014/05/06/ray-j-buys-cars-bentley-ferrari-vh1-love-and-hip-hop/"
+                url="http://img.geo.rnmd.net/image/00000320-11599405.jpg"
+                views="0"
+                votes="0" >
+
+                <thumbnail src="http://img.geo.rnmd.net/image/00000320-11599405.135x100.jpg" />
+            </content>
+        </link_item>
+
+        <link_item
+            id="2293455"
+            name="Guess Who This Karate Kid Turned Into!"
+            category="TMZ"
+            pubdate="Tue, 06 May 2014 07:10:00 +0000"
+            series="TMZ Text News"
+            share_url="http://www.tmz.com/2014/05/06/guess-who-this-karate-kid-turned-into/"
+            views="0"
+            votes="0" >
+
+            <description>
+Before this Tae Kwon Do dude became a kick-ass Hollywood actor he was just another martial art fan working his way up from a white belt in New Castle, Delaware. Can you guess who he is?
+            </description>
+
+            <thumbnail src="http://img.geo.rnmd.net/image/00000320-11599399.135x100.jpg" />
+
+            <content
+                id="2293455"
+                name="Guess Who This Karate Kid Turned Into!"
+                category="TMZ"
+                mediaType="text"
+                pubdate="Tue, 06 May 2014 07:10:00 +0000"
+                series="TMZ Text News"
+                share_url="http://www.tmz.com/2014/05/06/guess-who-this-karate-kid-turned-into/"
+                url="http://img.geo.rnmd.net/image/00000320-11599399.jpg"
+                views="0"
+                votes="0" >
+
+                <thumbnail src="http://img.geo.rnmd.net/image/00000320-11599399.135x100.jpg" />
+            </content>
+        </link_item>
+
+        <link_item
+            id="2293445"
+            name="EXCLUSIVE: Paul Mooney -- Hurls N-Word at Audience Member ... During Arsenio Taping"
+            category="TMZ"
+            pubdate="Tue, 06 May 2014 03:57:00 +0000"
+            series="TMZ Text News"
+            share_url="http://www.tmz.com/2014/05/05/paul-mooney-arsenio-hall-n-word-audience-member-taping/"
+            views="0"
+            votes="0" >
+
+            <description>
+Legendary comic Paul Mooney got downright racial during a taping of the Arsenio Hall show Monday night ...  spitting the N-bomb at an audience member in a performance that's being hailed as "the most embarrassing, disrespectful standup bombing ever." Mooney -- who famously appeared on "Chappelle's Show" and wrote for Richard Pryor -- was booked to do a short standup bit on Arsenio ... but rambled on for more than 14 minutes in a bizarre routine that touched on everything from "Roots" to Obama to his admiration of an audience member's giant breasts. But things really went off the rails when Mooney turned his attention to a black guy in the audience who he called a "bald-headed n**ga." One person who was there tells us ... the crowd was stunned -- and sat in awkward silence as Mooney tried to transition into different material. We're told it appeared producers were scrambling to cut him off and end the segment -- but Paul ignored the cues and kept going until a crew member used the P.A. system to interrupt him ... and a staff member went on stage to tell him to wrap it up. One audience member tweeted about the scene -- saying, "OMG! I just witnessed THE MOST EMBARASSING, Disrespectful "standup" BOMBING ever by Paul Mooney @arseniohall I wanted to walk out!" Eventually, Arsenio jumped in and helped end the segment in a respectful manner. Story developing ..
+            </description>
+
+            <thumbnail src="http://img.geo.rnmd.net/image/00000320-11599365.135x100.jpg" />
+
+            <content
+                id="2293445"
+                name="EXCLUSIVE: Paul Mooney -- Hurls N-Word at Audience Member ... During Arsenio Taping"
+                category="TMZ"
+                mediaType="text"
+                pubdate="Tue, 06 May 2014 03:57:00 +0000"
+                series="TMZ Text News"
+                share_url="http://www.tmz.com/2014/05/05/paul-mooney-arsenio-hall-n-word-audience-member-taping/"
+                url="http://img.geo.rnmd.net/image/00000320-11599365.jpg"
+                views="0"
+                votes="0" >
+
+                <thumbnail src="http://img.geo.rnmd.net/image/00000320-11599365.135x100.jpg" />
+            </content>
+        </link_item>
+
+        <link_item
+            id="2293429"
+            name="EXCLUSIVE: Barry&apos;s Bootcamp Founders -- Epic Divorce Meltdown ... He&apos;s a Physically Abusive Drunk Pill Head"
+            category="TMZ"
+            pubdate="Tue, 06 May 2014 02:11:00 +0000"
+            series="TMZ Text News"
+            share_url="http://www.tmz.com/2014/05/06/barrys-bootcamp-divorce-john-mumford-rachel/"
+            views="0"
+            votes="0" >
+
+            <description>
+Devastating blow to the Hollywood fitness craze known as Barry's Bootcamp -- the married couple behind the company has crumbled in epic fashion ... amid allegations of terrifying violence, drug and alcohol abuse, and more. 43-year-old Rachel Mumford has filed for divorce from 58-year-old John Mumford -- the man who provided the seed money in 1998 -- citing irreconcilable differences ... and that's just the beginning. Rachel just got a restraining order, after accusing John in legal docs of physically abusing her for years.  She also claims he's been nursing a nasty ecstasy and booze habit that's put not only both of them in danger, but the couple's children as well. The straw that broke the camel's back -- Rachel claims she and John went to Paris last month, and John flipped out over text messages he read on her phone ... grabbed her, threw her against their hotel room walls, and attempted to smother her on the bed. Rachel and John were married back in 1997 and have two minor children. Rachel wants physical custody of their kids while John gets help for his drug and booze problems. Barry's has blown up with locations across the country -- and remains a staple in the Hollwood fitness scene ... with celeb regulars like Jessica Alba, Kim Kardashian, Hugh Jackman, Jake Gyllenhaal, and many more. We've reached out to John for comment -- so far, no word back.
+            </description>
+
+            <thumbnail src="http://img.geo.rnmd.net/image/00000320-11599306.135x100.jpg" />
+
+            <content
+                id="2293429"
+                name="EXCLUSIVE: Barry&apos;s Bootcamp Founders -- Epic Divorce Meltdown ... He&apos;s a Physically Abusive Drunk Pill Head"
+                category="TMZ"
+                mediaType="text"
+                pubdate="Tue, 06 May 2014 02:11:00 +0000"
+                series="TMZ Text News"
+                share_url="http://www.tmz.com/2014/05/06/barrys-bootcamp-divorce-john-mumford-rachel/"
+                url="http://img.geo.rnmd.net/image/00000320-11599306.jpg"
+                views="0"
+                votes="0" >
+
+                <thumbnail src="http://img.geo.rnmd.net/image/00000320-11599306.135x100.jpg" />
+            </content>
+        </link_item>
+
+        <link_item
+            id="2293416"
+            name="EXCLUSIVE DETAILS: Porsha Williams&apos; Evangelist Rant -- Gays &amp; Lesbians Need to Be Saved [VIDEO]"
+            category="TMZ"
+            duration="72.02"
+            lastViewed="Tue, 06 May 2014 08:45:35 +0000"
+            pubdate="Tue, 06 May 2014 01:00:00 +0000"
+            series="TMZ Text News"
+            share_url="http://www.tmz.com/2014/05/05/porsha-williams-evangelist-rant-gays-lesbians-video-church/"
+            views="7059"
+            votes="0" >
+
+            <description>
+Before Porsha Williams thumped Kenya Moore, she thumped bibles -- ranting from the pulpit about gays and lesbians destined for an eternity in hell. Video shot roughly 3 years ago at High Praise Christian Center Ministries in GA has just surfaced, showing Porsha preaching and rambling about saving hookers, drug dealers, people who attempt suicide ... and gays and lesbians. She screams, "We're supposed to try and save them and tell them, ‘You are worthy!'" She doesn't stop there either ... you gotta see this. We reached out to Porsha for comment -- so far, no word back.
+            </description>
+
+            <thumbnail src="http://img.geo.rnmd.net/image/00000320-11599257.135x100.jpg" />
+
+            <content
+                id="2293416"
+                name="EXCLUSIVE DETAILS: Porsha Williams&apos; Evangelist Rant -- Gays &amp; Lesbians Need to Be Saved [VIDEO]"
+                category="TMZ"
+                duration="72.02"
+                lastViewed="Tue, 06 May 2014 08:45:35 +0000"
+                mediaType="video"
+                pubdate="Tue, 06 May 2014 01:00:00 +0000"
+                series="TMZ Text News"
+                share_url="http://www.tmz.com/2014/05/05/porsha-williams-evangelist-rant-gays-lesbians-video-church/"
+                url="00004982-11599169.mp4"
+                views="7059"
+                votes="0" >
+
+                <thumbnail src="http://img.geo.rnmd.net/image/00000320-11599257.135x100.jpg" />
+            </content>
+        </link_item>
+
+        <link_item
+            id="2293420"
+            name="TMZ TV: Cara Delevingne -- Shnoystering Sienna Miller ... Which MIGHT Be Hot?"
+            category="TMZ"
+            duration="107.59"
+            lastViewed="Tue, 06 May 2014 08:46:43 +0000"
+            pubdate="Tue, 06 May 2014 00:45:00 +0000"
+            series="TMZ Text News"
+            share_url="http://www.tmz.com/2014/05/05/cara-delevingne-sienna-miller-michelle-rodriguez-tmz-tv/"
+            views="1941"
+            votes="0" >
+
+            <description>
+Just when we thought Cara Delevingne had moved on from Michelle Rodriguez ... and picked up with Sienna Miller -- CD dropped a "SHONYSTER" bomb. Yeah, the word was a mystery to us too ... but now that we've figured out it has nothing to do with oyster shucking, clam digging, or any kind of seafood ... we're kinda bummed.
+            </description>
+
+            <thumbnail src="http://img.geo.rnmd.net/image/00000320-11599272.135x100.jpg" />
+
+            <content
+                id="2293420"
+                name="TMZ TV: Cara Delevingne -- Shnoystering Sienna Miller ... Which MIGHT Be Hot?"
+                category="TMZ"
+                duration="107.59"
+                lastViewed="Tue, 06 May 2014 08:46:43 +0000"
+                mediaType="video"
+                pubdate="Tue, 06 May 2014 00:45:00 +0000"
+                series="TMZ Text News"
+                share_url="http://www.tmz.com/2014/05/05/cara-delevingne-sienna-miller-michelle-rodriguez-tmz-tv/"
+                url="00004982-11599265.mp4"
+                views="1941"
+                votes="0" >
+
+                <thumbnail src="http://img.geo.rnmd.net/image/00000320-11599272.135x100.jpg" />
+            </content>
+        </link_item>
+
+        <link_item
+            id="2293296"
+            name="BREAKING NEWS: Bryan Singer &amp; Gary Goddard -- New Accuser Sues ... It Started When I Was 14"
+            category="TMZ"
+            pubdate="Mon, 05 May 2014 20:30:00 +0000"
+            series="TMZ Text News"
+            share_url="http://www.tmz.com/2014/05/05/bryan-singer-accuser-superman-returns-jeff-herman/"
+            views="0"
+            votes="0" >
+
+            <description>
+Bryan Singer and Gary Goddard have just been sued by another man who claims the showbiz honchos sexually assaulted him as a boy ... a campaign of abuse he says started when he was just 14. The lawsuit was filed today on behalf of a John Doe -- now 25 -- who claims Goddard established an online relationship with him back in 2003, and it quickly escalated into nude video chatting. The accuser alleges Goddard masturbated during these video chat sessions. When he was 16, the accuser alleges Goddard invited him to London where they engaged in anal intercourse. The accuser claims Singer got involved roughly a year later in 2006 following the London premiere after party for "Superman Returns." He claims Singer and Goddard plied him with alcohol during the party and brought him back to a hotel room, where a muscular man forced him into submitting to Singer and Goddard's sexual advances. The accuser claims he refused to have sex with Singer, so Singer asked him to sit on his chest and ejaculate instead. Singer has adamantly denied the allegations. The lawsuit was announced during a news conference Monday by the accuser's attorney Jeff Herman, who also showed blacked-out photos of his client hanging out with Goddard and Singer on the red carpet. The alleged victim was not present during the news conference. Herman says the accuser was inspired to come forward by his other client -- 31-year-old Michael Egan -- who is also suing Singer and Goddard (as well as others) with similar allegations of underage sex abuse.
+            </description>
+
+            <thumbnail src="http://img.geo.rnmd.net/image/00000320-11599041.135x100.jpg" />
+
+            <content
+                id="2293296"
+                name="BREAKING NEWS: Bryan Singer &amp; Gary Goddard -- New Accuser Sues ... It Started When I Was 14"
+                category="TMZ"
+                mediaType="text"
+                pubdate="Mon, 05 May 2014 20:30:00 +0000"
+                series="TMZ Text News"
+                share_url="http://www.tmz.com/2014/05/05/bryan-singer-accuser-superman-returns-jeff-herman/"
+                url="http://img.geo.rnmd.net/image/00000320-11599041.jpg"
+                views="0"
+                votes="0" >
+
+                <thumbnail src="http://img.geo.rnmd.net/image/00000320-11599041.135x100.jpg" />
+            </content>
+        </link_item>
+
+        <link_item
+            id="2293223"
+            name="BREAKING NEWS: Ariel Winter Breaks Down in Court ... During Mom&apos;s Sappy Home Video"
+            category="TMZ"
+            pubdate="Mon, 05 May 2014 18:22:00 +0000"
+            series="TMZ Text News"
+            share_url="http://www.tmz.com/2014/05/05/ariel-winter-guardian-court-mother-chrystal-workman-shanelle/"
+            views="0"
+            votes="0" >
+
+            <description>
+"Modern Family" star Ariel Winter broke down in tears in court just moments ago ... after her mom played a schmaltzy home video of Ariel's childhood memories. Chrystal Workman played the video for the courtroom as a weird last ditch effort to get her daughter to change her mind about living with her older sister Shanelle ... instead of with her mom. Chrystal told the court she would relinquish her bid to reclaim her parental rights over Ariel -- after a judge stripped her of custody in 2012 -- if Ariel agreed to watch the video ... which she did. The home video contained piano instrumentals and pictures from Ariel's childhood -- as a baby, from school, of the whole family together, and more. Ariel, Shanelle, Chrystal, and several other members of the Workman family were in tears as the video played -- but Ariel didn't change her mind ... and the judge signed off on Shanelle's permanent guardianship. As we reported, Ariel had accused her mom back in 2012 of emotionally and physically abusing her. Ariel's been living with her older sister Shanelle ever since.
+            </description>
+
+            <thumbnail src="http://img.geo.rnmd.net/image/00000320-11598651.135x100.jpg" />
+
+            <content
+                id="2293223"
+                name="BREAKING NEWS: Ariel Winter Breaks Down in Court ... During Mom&apos;s Sappy Home Video"
+                category="TMZ"
+                mediaType="text"
+                pubdate="Mon, 05 May 2014 18:22:00 +0000"
+                series="TMZ Text News"
+                share_url="http://www.tmz.com/2014/05/05/ariel-winter-guardian-court-mother-chrystal-workman-shanelle/"
+                url="http://img.geo.rnmd.net/image/00000320-11598651.jpg"
+                views="0"
+                votes="0" >
+
+                <thumbnail src="http://img.geo.rnmd.net/image/00000320-11598651.135x100.jpg" />
+            </content>
+        </link_item>
+
+        <link_item
+            id="2293159"
+            name="BREAKING NEWS: Scotty McCreery -- Home Invasion Victim"
+            category="TMZ"
+            pubdate="Mon, 05 May 2014 18:20:00 +0000"
+            series="TMZ Text News"
+            share_url="http://www.tmz.com/2014/05/05/scotty-mccreery-american-idol-home-invasion-victim/"
+            views="0"
+            votes="0" >
+
+            <description>
+1:26 P.M. PDT --  Scotty is now talking about the robbery. He just Tweeted, "Yes, it was definitely a very scary night. Luckily, my friends and I are safe and the Raleigh PD is on the case." Scotty also thanked police for their quick response and said, "I will share more when the time is right, but as of now we do not want to do or say anything that could hinder the investigation." Country singing former "American Idol" star Scotty McCreery was a victim of a home invasion robbery Monday morning. The Season 10 "Idol" winner was visiting friends at an apartment around 2AM near the North Carolina State University campus -- where McCreery is a student -- when the incident occurred. According to law enforcement, 3 gunmen barged into the unit -- while McCreery and his friends were inside -- and made off with cash, wallets, and other property, including valuable electronics. We also obtained the 911 call which includes a bunch of other details -- the caller says the intruders were black, dressed in black sweat pants and gray hoodies. The caller says he was in another room when they barged in, but he could hear them say, "Everyone on the floor. Give us everything you've got." No one was injured.
+            </description>
+
+            <thumbnail src="http://img.geo.rnmd.net/image/00000320-11598427.135x100.jpg" />
+
+            <content
+                id="2293159"
+                name="BREAKING NEWS: Scotty McCreery -- Home Invasion Victim"
+                category="TMZ"
+                mediaType="text"
+                pubdate="Mon, 05 May 2014 18:20:00 +0000"
+                series="TMZ Text News"
+                share_url="http://www.tmz.com/2014/05/05/scotty-mccreery-american-idol-home-invasion-victim/"
+                url="http://img.geo.rnmd.net/image/00000320-11598427.jpg"
+                views="0"
+                votes="0" >
+
+                <thumbnail src="http://img.geo.rnmd.net/image/00000320-11598427.135x100.jpg" />
+            </content>
+        </link_item>
+
+        <link_item
+            id="2293253"
+            name="EXCLUSIVE: Ringling Bros -- The Show Will Go On After Accident ... MINUS Flying Hair-ialists"
+            category="TMZ"
+            duration="73.65"
+            lastViewed="Tue, 06 May 2014 08:45:13 +0000"
+            pubdate="Mon, 05 May 2014 18:15:00 +0000"
+            series="TMZ Text News"
+            share_url="http://www.tmz.com/2014/05/05/ringling-brothers-accident-hair-hang-stephen-payne/"
+            views="1444"
+            votes="0" >
+
+            <description>
+The Ringling Bros and Barnum &amp; Bailey circus will keep chugging along after a devastating accident Sunday involving its high-flying "Hair Hang" act -- but the ""Hair Hang" act won't be coming along ... a rep for the circus tells TMZ. The rep tells us, 8 of the 9 acrobats who were injured during the accident -- when a rigging structure failed, dropping the acrobats 30 feet into the center ring -- are still in the hospital ... making it difficult to include the act in upcoming performances in Hartford later this week. The rep tells us, the girls involved in the accident are the only ones trained to do the act, so the act had to be cut while they recover. We also spoke to a spokesperson for the circus in D.C., who gave us some interesting trade secrets behind the "Hair Hang" act ... like the fact that the performers weave a metal loop into their hair to help them stay suspended. And there's more where that came from.
+            </description>
+
+            <thumbnail src="http://img.geo.rnmd.net/image/00000320-11598753.135x100.jpg" />
+
+            <content
+                id="2293253"
+                name="EXCLUSIVE: Ringling Bros -- The Show Will Go On After Accident ... MINUS Flying Hair-ialists"
+                category="TMZ"
+                duration="73.65"
+                lastViewed="Tue, 06 May 2014 08:45:13 +0000"
+                mediaType="video"
+                pubdate="Mon, 05 May 2014 18:15:00 +0000"
+                series="TMZ Text News"
+                share_url="http://www.tmz.com/2014/05/05/ringling-brothers-accident-hair-hang-stephen-payne/"
+                url="00004982-11598722.mp4"
+                views="1444"
+                votes="0" >
+
+                <thumbnail src="http://img.geo.rnmd.net/image/00000320-11598753.135x100.jpg" />
+            </content>
+        </link_item>
+
+        <link_item
+            id="2293226"
+            name="EXCLUSIVE: Scotty McCreery Home Invasion -- Hear the 911 Call"
+            category="TMZ"
+            pubdate="Mon, 05 May 2014 17:58:00 +0000"
+            series="TMZ Text News"
+            share_url="http://www.tmz.com/2014/05/05/scotty-mccreery-911-call-home-invasion/"
+            views="0"
+            votes="0" >
+
+            <description>
+The 911 call made after Scotty McCreery and a few friends were robbed at gun point was not made by the teacher from Charlie Brown ... it just sounds like it. TMZ has obtained the 911 call made early Monday morning after three gunmen broke into an apartment near North Carolina State University and made off with cash, wallets, and other property, including valuable electronics. It's hard to say whether the "American Idol" champ is the one who placed the 911 call ... because North Carolina state law calls for the voices to be distorted on the tape. So even though you've just been robbed, at least your identity is safe in North Carolina.
+            </description>
+
+            <thumbnail src="http://img.geo.rnmd.net/image/00000320-11598634.135x100.jpg" />
+
+            <content
+                id="2293226"
+                name="EXCLUSIVE: Scotty McCreery Home Invasion -- Hear the 911 Call"
+                category="TMZ"
+                mediaType="text"
+                pubdate="Mon, 05 May 2014 17:58:00 +0000"
+                series="TMZ Text News"
+                share_url="http://www.tmz.com/2014/05/05/scotty-mccreery-911-call-home-invasion/"
+                url="http://img.geo.rnmd.net/image/00000320-11598634.jpg"
+                views="0"
+                votes="0" >
+
+                <thumbnail src="http://img.geo.rnmd.net/image/00000320-11598634.135x100.jpg" />
+            </content>
+        </link_item>
+
+        <link_item
+            id="2293198"
+            name="EXCLUSIVE: BET Lawsuit -- I Got Screwed on the Floor of the Hip Hop Awards"
+            category="TMZ"
+            pubdate="Mon, 05 May 2014 17:00:00 +0000"
+            series="TMZ Text News"
+            share_url="http://www.tmz.com/2014/05/05/bet-hip-hop-awards-lawsuit-screw-injury-puncture/"
+            views="0"
+            votes="0" >
+
+            <description>
+BET is getting sued by a guy who says he got screwed -- and not in a good way -- at the network's 2012 Hip Hop Awards show, claiming he suffered 2 horrible injuries while attending the ceremony ... TMZ has learned. Frank Haward Taylor Jr. says he was at the Atlanta Civic Center for the awards when he stepped on a large screw or bolt that was dangerously sticking up from the floor ... inflicting a painful puncture wound on his left foot. In the lawsuit, Taylor says the pain was so excruciating he fell to the floor and wound up badly banging up his left shoulder too. Taylor -- who according to the docs also goes by "Big Suge" -- says he suffered pain, humiliation, and fright -- so, he's suing BET and the city of Atlanta for $5 million. Listen, Big Suge ... at least you didn't get shot at or beaten.
+            </description>
+
+            <thumbnail src="http://img.geo.rnmd.net/image/00000320-11598527.135x100.jpg" />
+
+            <content
+                id="2293198"
+                name="EXCLUSIVE: BET Lawsuit -- I Got Screwed on the Floor of the Hip Hop Awards"
+                category="TMZ"
+                mediaType="text"
+                pubdate="Mon, 05 May 2014 17:00:00 +0000"
+                series="TMZ Text News"
+                share_url="http://www.tmz.com/2014/05/05/bet-hip-hop-awards-lawsuit-screw-injury-puncture/"
+                url="http://img.geo.rnmd.net/image/00000320-11598527.jpg"
+                views="0"
+                votes="0" >
+
+                <thumbnail src="http://img.geo.rnmd.net/image/00000320-11598527.135x100.jpg" />
+            </content>
+        </link_item>
+
+        <link_item
+            id="2293197"
+            name="EXCLUSIVE: 2 Chainz -- Cops Plea, Gets Awesome Bracelet From Judge"
+            category="TMZ"
+            duration="158.07"
+            lastViewed="Tue, 06 May 2014 08:45:53 +0000"
+            pubdate="Mon, 05 May 2014 16:59:00 +0000"
+            series="TMZ Text News"
+            share_url="http://www.tmz.com/2014/05/05/2-chainz-sizzurp-plea-bargain-jewelry-bracelet-video/"
+            views="4658"
+            votes="0" >
+
+            <description>
+2 Chainz is one cool cat ... coming face-to-face with a judge in a FELONY drug case and not only blowing kisses in court, but wooing the judge over to the point hizzoner gave Chainz some bling. The rapper copped a plea in his drug case -- where he was busted at LAX last June for carrying codeine in one of his bags.  Chainz, with his lawyer, Leonard Levine, pled guilty to misdemeanor drug possession and that's all she wrote. He got probation, but he got something else.  Judge Keith Schwartz gave Chainz a sobriety bracelet. Now he's 3 Chainz.
+            </description>
+
+            <thumbnail src="http://img.geo.rnmd.net/image/00000320-11598526.135x100.jpg" />
+
+            <content
+                id="2293197"
+                name="EXCLUSIVE: 2 Chainz -- Cops Plea, Gets Awesome Bracelet From Judge"
+                category="TMZ"
+                duration="158.07"
+                lastViewed="Tue, 06 May 2014 08:45:53 +0000"
+                mediaType="video"
+                pubdate="Mon, 05 May 2014 16:59:00 +0000"
+                series="TMZ Text News"
+                share_url="http://www.tmz.com/2014/05/05/2-chainz-sizzurp-plea-bargain-jewelry-bracelet-video/"
+                url="00004982-11598507.mp4"
+                views="4658"
+                votes="0" >
+
+                <thumbnail src="http://img.geo.rnmd.net/image/00000320-11598526.135x100.jpg" />
+            </content>
+        </link_item>
+
+        <link_item
+            id="2293114"
+            name="Karl Malone -- KILLS HIMSELF A BEAR ... With a Bow and Arrow"
+            category="TMZ"
+            pubdate="Mon, 05 May 2014 15:44:00 +0000"
+            series="TMZ Text News"
+            share_url="http://www.tmz.com/2014/05/05/karl-malone-kills-himself-a-bear-with-bow/"
+            views="0"
+            votes="0" >
+
+            <description>
+Karl Malone has something in common with Davy Crockett ... they kill bears.  The Mailman bagged himself a beast during a recent hunting trip with his son ... and then posed for a photo with the post-alive majestic creature.  Karl Malone Jr. -- who plays football at LSU -- just tweeted about the kill ... saying, "S/o to my dad gettin him a bear with his bow." Somewhere, Ted Nugent is smiling ... and also probably killing something. 
+            </description>
+
+            <thumbnail src="http://img.geo.rnmd.net/image/00000320-11598298.135x100.jpg" />
+
+            <content
+                id="2293114"
+                name="Karl Malone -- KILLS HIMSELF A BEAR ... With a Bow and Arrow"
+                category="TMZ"
+                mediaType="text"
+                pubdate="Mon, 05 May 2014 15:44:00 +0000"
+                series="TMZ Text News"
+                share_url="http://www.tmz.com/2014/05/05/karl-malone-kills-himself-a-bear-with-bow/"
+                url="http://img.geo.rnmd.net/image/00000320-11598298.jpg"
+                views="0"
+                votes="0" >
+
+                <thumbnail src="http://img.geo.rnmd.net/image/00000320-11598298.135x100.jpg" />
+            </content>
+        </link_item>
+
+        <link_item
+            id="2293107"
+            name="EXCLUSIVE: Donald Sterling SUING NBA -- Clippers Owner Lawyering Up"
+            category="TMZ"
+            lastViewed="Tue, 06 May 2014 00:52:49 +0000"
+            pubdate="Mon, 05 May 2014 15:18:00 +0000"
+            series="TMZ Text News"
+            share_url="http://www.tmz.com/2014/05/05/donald-sterling-lawsuit-nba-lawyer-law-firm-patty-glaser/"
+            views="1"
+            votes="0" >
+
+            <description>
+Donald Sterling is on the hunt to hire a major L.A. law firm to sue the NBA for suspending him and attempting to strip him of ownership of the Los Angeles Clippers ... TMZ Sports has learned. Sources familiar with the situation tell us ... Sterling's people were in touch with several law firms last week, including the powerhouse firm Glaser Weil.  Patty Glaser is one of the top litigators in the country and has repped scores of celebs, including Conan O'Brien and Keith Olbermann.  And this is ironic ... Paula Deen hired Glaser to defend her in the Uncle Bubba's Seafood and Oyster House case ... where Deen admitted during a deposition she used the N word, FYI, Deen's admission occurred long before Glaser took the case. We've also learned Sterling's people have been in touch with the mega-law firm Quinn Emanuel Urquhart and Sullivan, a 650-member law firm specializing in business litigation. Our sources made it clear ... Sterling will not go down without a fight.
+            </description>
+
+            <thumbnail src="http://img.geo.rnmd.net/image/00000320-11598272.135x100.jpg" />
+
+            <content
+                id="2293107"
+                name="EXCLUSIVE: Donald Sterling SUING NBA -- Clippers Owner Lawyering Up"
+                category="TMZ"
+                lastViewed="Tue, 06 May 2014 00:52:49 +0000"
+                mediaType="text"
+                pubdate="Mon, 05 May 2014 15:18:00 +0000"
+                series="TMZ Text News"
+                share_url="http://www.tmz.com/2014/05/05/donald-sterling-lawsuit-nba-lawyer-law-firm-patty-glaser/"
+                url="http://img.geo.rnmd.net/image/00000320-11598272.jpg"
+                views="1"
+                votes="0" >
+
+                <thumbnail src="http://img.geo.rnmd.net/image/00000320-11598272.135x100.jpg" />
+            </content>
+        </link_item>
+
+        <link_item
+            id="2293059"
+            name="&apos;Saturday Night Live&apos; Actress -- BLASTED BY EBONY HONCHO ... &apos;You&apos;re An Embarrassment&apos;"
+            category="TMZ"
+            pubdate="Mon, 05 May 2014 14:50:00 +0000"
+            series="TMZ Text News"
+            share_url="http://www.tmz.com/2014/05/05/saturday-night-live-leslie-jones-ebony-jamilah-lemieux-embarrassment/"
+            views="0"
+            votes="0" >
+
+            <description>
+A "Saturday Night Live" actress is under attack by the senior editor of Ebony.com -- who claims a bit she performed on the show where she joked about being a "Number 1 slave draft pick" is an "embarrassment." The woman in the crosshairs is Leslie Jones -- who performed the bit during the Weekend Update of SNL ... and essentially said in slave days, she would have been the most popular woman on the plantation for forced slave breeding.  "See, I’m single right now, but back in the slave days, I would have never been single. I’m six feet tall and I’m strong, Colin. Strong! I mean, look at me, I’m a mandingo ... I’m just saying that back in the slave days, my love life would have been way better. Massah would have hooked me up with the best brotha on the plantation  … I would be the No. 1 slave draft pick." But after the sketch, the backlash began -- with Ebony.com senior editor Jamilah Lemieux tweeting, "This Leslie Jones person is an embarrassment @msmarypryor. I'm so appalled right now." Jones fired back on Sunday -- writing, "If anybody should be offended is white folks cause it’s what they did.” "Y’all so busy trying to be self righteous you miss what the joke really is. Very sad I have to defend myself to black people. Now I’m betting if Chris Rock or Dave [Chappelle] did that joke or  jay z or Kanye put in a rap they would be called brilliant. Cause they all do this type of material. Just cause it came from a strong  black woman who ain’t afraid to be real y’all mad." "So here is my announcement black folks, you won’t stop me and Im gonna go even harder and deeper now. Cause it’s a shame that we kill each other instead of support each other. This exactly why black people are where we are now cause we too f***** sensitive and instead of make lemonade out of lemons we just suck the sour juice from the lemons. Wake up."
+            </description>
+
+            <thumbnail src="http://img.geo.rnmd.net/image/00000320-11598113.135x100.jpg" />
+
+            <content
+                id="2293059"
+                name="&apos;Saturday Night Live&apos; Actress -- BLASTED BY EBONY HONCHO ... &apos;You&apos;re An Embarrassment&apos;"
+                category="TMZ"
+                mediaType="text"
+                pubdate="Mon, 05 May 2014 14:50:00 +0000"
+                series="TMZ Text News"
+                share_url="http://www.tmz.com/2014/05/05/saturday-night-live-leslie-jones-ebony-jamilah-lemieux-embarrassment/"
+                url="http://img.geo.rnmd.net/image/00000320-11598113.jpg"
+                views="0"
+                votes="0" >
+
+                <thumbnail src="http://img.geo.rnmd.net/image/00000320-11598113.135x100.jpg" />
+            </content>
+        </link_item>
+
+        <link_item
+            id="2293086"
+            name="Kanye West -- I&apos;m the Simon Cowell of the Streets ... Gives Rapper Shot at Fame"
+            category="TMZ"
+            duration="112.63"
+            lastViewed="Tue, 06 May 2014 08:46:19 +0000"
+            pubdate="Mon, 05 May 2014 14:47:00 +0000"
+            series="TMZ Text News"
+            share_url="http://www.tmz.com/2014/05/05/kanye-west-rapper-audition-on-street-video/"
+            views="18236"
+            votes="0" >
+
+            <description>
+Kanye West was verbally assaulted on the streets of NYC ... and he liked it ... giving a total stranger several minutes to show off his rapping skills on camera. Kanye and Kim Kardashian were walking to their home in SoHo when a guy -- who's either really brave or really dumb -- ran up behind Kanye and boldly said, "I been working on my s***, trying to get better at it."  This is where old Kanye shoots the guy down and crushes his dreams -- but the new KINDER Yeezy instead replied, "How's it sound now?"" And then ... the guy spits his rhyme for more than a minute straight! Kanye even waited for the guy to finish before walking into his building!! Check out Kanye's reaction -- not sure the guy's going on tour with him anytime soon, but still ... "The Grinch's small heart grew three sizes that day."  
+            </description>
+
+            <thumbnail src="http://img.geo.rnmd.net/image/00000320-11598203.135x100.jpg" />
+
+            <content
+                id="2293086"
+                name="Kanye West -- I&apos;m the Simon Cowell of the Streets ... Gives Rapper Shot at Fame"
+                category="TMZ"
+                duration="112.63"
+                lastViewed="Tue, 06 May 2014 08:46:19 +0000"
+                mediaType="video"
+                pubdate="Mon, 05 May 2014 14:47:00 +0000"
+                series="TMZ Text News"
+                share_url="http://www.tmz.com/2014/05/05/kanye-west-rapper-audition-on-street-video/"
+                url="00004982-11598200.mp4"
+                views="18236"
+                votes="0" >
+
+                <thumbnail src="http://img.geo.rnmd.net/image/00000320-11598203.135x100.jpg" />
+            </content>
+        </link_item>
+
+        <link_item
+            id="2293112"
+            name="Chumlee -- This Is How You Do Vegas!"
+            category="TMZ"
+            pubdate="Mon, 05 May 2014 14:40:00 +0000"
+            series="TMZ Text News"
+            share_url="http://www.tmz.com/2014/05/05/chumlee-flashing-photo-las-vegas-pool/"
+            views="0"
+            votes="0" >
+
+            <description>
+Rather than sit at a dingy blackjack table and risk getting thrown out ... Chumlee from "Pawn Stars" spent his time far more wisely in Sin City this weekend -- at the Tao Beach pool getting flashed by a hot chick for no reason at all. Well, we can think of at least one reason for the exposure. Hit me!
+            </description>
+
+            <thumbnail src="http://img.geo.rnmd.net/image/00000320-11598289.135x100.jpg" />
+
+            <content
+                id="2293112"
+                name="Chumlee -- This Is How You Do Vegas!"
+                category="TMZ"
+                mediaType="text"
+                pubdate="Mon, 05 May 2014 14:40:00 +0000"
+                series="TMZ Text News"
+                share_url="http://www.tmz.com/2014/05/05/chumlee-flashing-photo-las-vegas-pool/"
+                url="http://img.geo.rnmd.net/image/00000320-11598289.jpg"
+                views="0"
+                votes="0" >
+
+                <thumbnail src="http://img.geo.rnmd.net/image/00000320-11598289.135x100.jpg" />
+            </content>
+        </link_item>
+
+        <link_item
+            id="2293078"
+            name="Naya Rivera -- Fired? Maybe ... On Fire? DEFINITELY [PHOTOS]"
+            category="TMZ"
+            pubdate="Mon, 05 May 2014 14:21:00 +0000"
+            series="TMZ Text News"
+            share_url="http://www.tmz.com/2014/05/05/naya-rivera-bikini-photo-glee-fired/"
+            views="0"
+            votes="0" >
+
+            <description>
+Naya Rivera made men around the country gleeful when she was spotted out in Cabo this weekend wearing an incredibly tiny bikini. No matter what happens with "Glee," it's clear Naya has the body of work to go far.  
+            </description>
+
+            <thumbnail src="http://img.geo.rnmd.net/image/00000320-11598176.135x100.jpg" />
+
+            <content
+                id="2293078"
+                name="Naya Rivera -- Fired? Maybe ... On Fire? DEFINITELY [PHOTOS]"
+                category="TMZ"
+                mediaType="text"
+                pubdate="Mon, 05 May 2014 14:21:00 +0000"
+                series="TMZ Text News"
+                share_url="http://www.tmz.com/2014/05/05/naya-rivera-bikini-photo-glee-fired/"
+                url="http://img.geo.rnmd.net/image/00000320-11598176.jpg"
+                views="0"
+                votes="0" >
+
+                <thumbnail src="http://img.geo.rnmd.net/image/00000320-11598176.135x100.jpg" />
+            </content>
+        </link_item>
+
+        <link_item
+            id="2293137"
+            name="EXCLUSIVE DETAILS: Lil Wayne -- Tried to Fight Maidana&apos;s Trainer ... After Mayweather Fight"
+            category="TMZ"
+            pubdate="Mon, 05 May 2014 13:34:00 +0000"
+            series="TMZ Text News"
+            share_url="http://www.tmz.com/2014/05/05/lil-wayne-tried-to-fight-marcos-maidana-trainer-after-mayweather-fight/"
+            views="0"
+            votes="0" >
+
+            <description>
+Lil Wayne tried to FIGHT Marcos Maidana's trainer ... moments after the Mayweather fight ... and sources close to the situation tell TMZ Sports it was all over a flying water bottle. 
+ Wayne -- who was part of Floyd Mayweather's entourage -- was leaving the ring at the MGM Grand when in the chaos that ensued following the fight, someone threw a bottle that struck the rapper on the shoulder.  We're told ... Wayne believed the bottle-thrower was a member of Maidana's entourage (the fighter's trainer) -- who was following close behind -- and Weezy immediately tried to confront the guy to fight it out.  You can see in the video ... a member of Wayne's entourage grabbed the rapper and kept him from getting into it ... though it's clear, Weezy was heated.  At one point, you can hear Wayne scream at Maidana's camp, "Let's GO, n***a!"   Ultimately, both sides were separated without further incident. [H/T BSO]
+            </description>
+
+            <thumbnail src="http://img.geo.rnmd.net/image/00000320-11598362.135x100.jpg" />
+
+            <content
+                id="2293137"
+                name="EXCLUSIVE DETAILS: Lil Wayne -- Tried to Fight Maidana&apos;s Trainer ... After Mayweather Fight"
+                category="TMZ"
+                mediaType="text"
+                pubdate="Mon, 05 May 2014 13:34:00 +0000"
+                series="TMZ Text News"
+                share_url="http://www.tmz.com/2014/05/05/lil-wayne-tried-to-fight-marcos-maidana-trainer-after-mayweather-fight/"
+                url="http://img.geo.rnmd.net/image/00000320-11598362.jpg"
+                views="0"
+                votes="0" >
+
+                <thumbnail src="http://img.geo.rnmd.net/image/00000320-11598362.135x100.jpg" />
+            </content>
+        </link_item>
+
+        <link_item
+            id="2293056"
+            name="EXCLUSIVE: Ex-NFL Player James Hardy -- Injures 3 Cops ... In Violent L.A. Arrest"
+            category="TMZ"
+            pubdate="Mon, 05 May 2014 12:38:00 +0000"
+            series="TMZ Text News"
+            share_url="http://www.tmz.com/2014/05/05/james-hardy-arrested-attack-cops-stun-gun-ex-nfl-player/"
+            views="0"
+            votes="0" >
+
+            <description>
+Former NFL player James Hardy III -- a 2nd round draft pick in 2008 -- attacked multiple police officers Sunday during a violent arrest in L.A. ... TMZ Sports has learned.
+ Law enforcement sources tell us ... cops were called to an apartment complex in downtown L.A. around 4:30 PM ... and when they arrived to the scene Hardy refused to cooperate.  We're told Hardy -- a wide receiver who played for the Bills and the Ravens -- got aggressive and attacked the officers. We're told he injured at least three cops.  Eventually, officers used a TASER in an effort to subdue Hardy ... but it didn't have the desired effect.  Several officers ultimately were able to take Hardy into custody and he was arrested for felony obstruction of justice. Hardy was later transported to a hospital.   Law enforcement sources tell us ... officers believe Hardy may have been under the influence at the time of the incident.  Hardy is a BIG dude -- according to his booking sheet, the 28-year-old is 6'6" tall and weighs 225 lbs.  Story developing ...
+            </description>
+
+            <thumbnail src="http://img.geo.rnmd.net/image/00000320-11598099.135x100.jpg" />
+
+            <content
+                id="2293056"
+                name="EXCLUSIVE: Ex-NFL Player James Hardy -- Injures 3 Cops ... In Violent L.A. Arrest"
+                category="TMZ"
+                mediaType="text"
+                pubdate="Mon, 05 May 2014 12:38:00 +0000"
+                series="TMZ Text News"
+                share_url="http://www.tmz.com/2014/05/05/james-hardy-arrested-attack-cops-stun-gun-ex-nfl-player/"
+                url="http://img.geo.rnmd.net/image/00000320-11598099.jpg"
+                views="0"
+                votes="0" >
+
+                <thumbnail src="http://img.geo.rnmd.net/image/00000320-11598099.135x100.jpg" />
+            </content>
+        </link_item>
+
+        <link_item
+            id="2293061"
+            name="Katie Couric -- NBC Mulling Over Her Return to &apos;Today&apos;"
+            category="TMZ"
+            pubdate="Mon, 05 May 2014 11:45:00 +0000"
+            series="TMZ Text News"
+            share_url="http://www.tmz.com/2014/05/05/katie-couric-today-show-host-savannah-guthrie-pregnancy-leave/"
+            views="0"
+            votes="0" >
+
+            <description>
+Execs at "Today" are talking about filling a pregnant pause -- with Katie Couric ... TMZ has confirmed. Co-host Savannah Guthrie is 5 months pregnant and headed for maternity leave ...  we're told NBC honchos are seriously considering bringing Katie back while Savannah is on maternity leave. The reasons -- Katie is still hugely identified with the "Today" brand, she gets along great with Matt Lauer and she's friends with Savannah. The NY Post reported and we've confirmed ... it's just in the talking stages, but we're hearing it's being seriously considered.  As for Katie, sources say her exclusive deal with ABC is up mid-summer, so the timing would work out. One final thing ... the execs are saying Katie makes sense  because she's not a "threat" to Savannah.  Hmmmm.
+            </description>
+
+            <thumbnail src="http://img.geo.rnmd.net/image/00000320-11598121.135x100.jpg" />
+
+            <content
+                id="2293061"
+                name="Katie Couric -- NBC Mulling Over Her Return to &apos;Today&apos;"
+                category="TMZ"
+                mediaType="text"
+                pubdate="Mon, 05 May 2014 11:45:00 +0000"
+                series="TMZ Text News"
+                share_url="http://www.tmz.com/2014/05/05/katie-couric-today-show-host-savannah-guthrie-pregnancy-leave/"
+                url="http://img.geo.rnmd.net/image/00000320-11598121.jpg"
+                views="0"
+                votes="0" >
+
+                <thumbnail src="http://img.geo.rnmd.net/image/00000320-11598121.135x100.jpg" />
+            </content>
+        </link_item>
+
+        <link_item
+            id="2293053"
+            name="EXCLUSIVE: Suge Knight Outraged Over Ex&apos;s Book -- It&apos;s 99% Lies"
+            category="TMZ"
+            duration="118.56"
+            lastViewed="Tue, 06 May 2014 08:46:32 +0000"
+            pubdate="Mon, 05 May 2014 11:30:00 +0000"
+            series="TMZ Text News"
+            share_url="http://www.tmz.com/2014/05/05/suge-knight-stormey-ramdhan-book/"
+            views="6648"
+            votes="0" >
+
+            <description>
+Suge Knight is coming out swinging against his ex's new book -- telling TMZ, 99% of it is made up ... including anything she claims to know about Tupac's death ... and he's already in the process of making sure the book never sees the light of day. Stormey Ramdhan (who recently told us Suge had nothing to do with Pac's death) is set to release her new book "My Life With the Knight: The Woman Behind the Most Feared Man in Hip Hop" -- but Suge tells us, there's no "life" to speak of. Suge says his relationship with Stormey -- which produced two children -- was short-lived back in the day ... and when it comes down to it ... she's got nothing interesting to say about him, in a book or otherwise.   He says nearly everything in her new book is a lie ... and he's currently in the process of drafting a cease and desist letter, aimed at blocking its release. As for her claiming she's Suge's ex-fiancee, Suge has words for her. Check out the video below.
+            </description>
+
+            <thumbnail src="http://img.geo.rnmd.net/image/00000320-11598089.135x100.jpg" />
+
+            <content
+                id="2293053"
+                name="EXCLUSIVE: Suge Knight Outraged Over Ex&apos;s Book -- It&apos;s 99% Lies"
+                category="TMZ"
+                duration="118.56"
+                lastViewed="Tue, 06 May 2014 08:46:32 +0000"
+                mediaType="video"
+                pubdate="Mon, 05 May 2014 11:30:00 +0000"
+                series="TMZ Text News"
+                share_url="http://www.tmz.com/2014/05/05/suge-knight-stormey-ramdhan-book/"
+                url="00004982-11598081.mp4"
+                views="6648"
+                votes="0" >
+
+                <thumbnail src="http://img.geo.rnmd.net/image/00000320-11598089.135x100.jpg" />
+            </content>
+        </link_item>
+
+        <link_item
+            id="2293043"
+            name="EXCLUSIVE: Valerie Harper Rips Broadway Honcho -- How Dare You Accuse Me of Hiding My Cancer!"
+            category="TMZ"
+            pubdate="Mon, 05 May 2014 11:00:00 +0000"
+            series="TMZ Text News"
+            share_url="http://www.tmz.com/2014/05/05/valerie-harper-cancer-lawsuit-looped-matthew-lombardo/"
+            views="0"
+            votes="0" >
+
+            <description>
+No one was more shocked by the return of Valerie Harper's cancer than Valerie Harper -- so she insists in new legal docs, claiming the Broadway playwright who accused her of keeping her cancer a secret is wrong beyond measure. TMZ broke the story, Matthew Lombardo -- the playwright behind the Broadway production "Looped" -- sued Harper for $2 million, claiming she withheld the truth about her cancer's return in 2012. Matthew claims Valerie's ruse eventually fell apart when she was forced to pull out of the play because of her medical issues ... and it cost him $500,000 to find a last minute replacement. Harper is now firing back, insisting Matthew's talking out of his ass. Harper claims Lombardo found out about her cancer's return the same time she did, so his lawsuit is baseless. At the time, Harper claims she believed her cancer had been successfully removed during a prior surgery, and when her health began to deteriorate in early 2013, she thought she had suffered a stroke. It was only later she discovered her lung cancer hadn't just returned, it had spread to her brain. Harper's now asking the court to throw Lombardo's suit in the trash.
+            </description>
+
+            <thumbnail src="http://img.geo.rnmd.net/image/00000320-11598054.135x100.jpg" />
+
+            <content
+                id="2293043"
+                name="EXCLUSIVE: Valerie Harper Rips Broadway Honcho -- How Dare You Accuse Me of Hiding My Cancer!"
+                category="TMZ"
+                mediaType="text"
+                pubdate="Mon, 05 May 2014 11:00:00 +0000"
+                series="TMZ Text News"
+                share_url="http://www.tmz.com/2014/05/05/valerie-harper-cancer-lawsuit-looped-matthew-lombardo/"
+                url="http://img.geo.rnmd.net/image/00000320-11598054.jpg"
+                views="0"
+                votes="0" >
+
+                <thumbnail src="http://img.geo.rnmd.net/image/00000320-11598054.135x100.jpg" />
+            </content>
+        </link_item>
+
+        <link_item
+            id="2293042"
+            name="EXCLUSIVE: Chief Keef -- Thumbing His Nose at Obamacare ... Says Baby Mama"
+            category="TMZ"
+            pubdate="Mon, 05 May 2014 10:25:00 +0000"
+            series="TMZ Text News"
+            share_url="http://www.tmz.com/2014/05/05/chief-keef-baby-mama-court-order-health-insurance-daughter/"
+            views="0"
+            votes="0" >
+
+            <description>
+Barack Obama would be SUPER DISAPPOINTED in Chief Keef ... 'cause according to his baby mama, the rapper has FAILED to get his daughter health insurance.  It ain't like Chief can't afford it ... as his ex points out in legal docs, he signed a $6 million record deal in 2013 and has at least $594,167.46 in liquid assets.  The woman, Jasmine Woodford, claims she's just a poor nursing student who can't afford to buy a health plan herself ... and a judge previously ordered Keef to pony up, but he never did.  Maybe the website was down?
+            </description>
+
+            <thumbnail src="http://img.geo.rnmd.net/image/00000320-11598050.135x100.jpg" />
+
+            <content
+                id="2293042"
+                name="EXCLUSIVE: Chief Keef -- Thumbing His Nose at Obamacare ... Says Baby Mama"
+                category="TMZ"
+                mediaType="text"
+                pubdate="Mon, 05 May 2014 10:25:00 +0000"
+                series="TMZ Text News"
+                share_url="http://www.tmz.com/2014/05/05/chief-keef-baby-mama-court-order-health-insurance-daughter/"
+                url="http://img.geo.rnmd.net/image/00000320-11598050.jpg"
+                views="0"
+                votes="0" >
+
+                <thumbnail src="http://img.geo.rnmd.net/image/00000320-11598050.135x100.jpg" />
+            </content>
+        </link_item>
+
+        <link_item
+            id="2293041"
+            name="EXCLUSIVE: Flo Rida vs. Baby Mama -- He Won&apos;t Pay For Our Kid ... But He&apos;ll Fund an Abortion"
+            category="TMZ"
+            pubdate="Mon, 05 May 2014 10:00:00 +0000"
+            series="TMZ Text News"
+            share_url="http://www.tmz.com/2014/05/05/flo-rida-baby-mama-abortion-paternity-court/"
+            views="0"
+            votes="0" >
+
+            <description>
+Flo Rida's alleged baby mama says the rapper hasn't given her a dime for prenatal care, but did offer her money for an abortion ... according to court docs. Natasha Georgette Williams is fighting Flo in court to get financial assistance -- he won't acknowledge he's the daddy -- but in a new court filing she claims he demanded she have an abortion ... which she refused. Flo says he wants DNA proof he's the father, but Williams is refusing in utero testing -- amniocentesis -- because doctors told her it was invasive and risky for the baby's health. In the docs, Williams says she's down for testing -- once the baby's born.
+            </description>
+
+            <thumbnail src="http://img.geo.rnmd.net/image/00000320-11575354.135x100.jpg" />
+
+            <content
+                id="2293041"
+                name="EXCLUSIVE: Flo Rida vs. Baby Mama -- He Won&apos;t Pay For Our Kid ... But He&apos;ll Fund an Abortion"
+                category="TMZ"
+                mediaType="text"
+                pubdate="Mon, 05 May 2014 10:00:00 +0000"
+                series="TMZ Text News"
+                share_url="http://www.tmz.com/2014/05/05/flo-rida-baby-mama-abortion-paternity-court/"
+                url="http://img.geo.rnmd.net/image/00000320-11575354.jpg"
+                views="0"
+                votes="0" >
+
+                <thumbnail src="http://img.geo.rnmd.net/image/00000320-11575354.135x100.jpg" />
+            </content>
+        </link_item>
+
+        <link_item
+            id="2293001"
+            name="EXCLUSIVE: Donald Sterling -- Super Racist Comments About Celebs Alleged in Super Ridiculous Court Filing"
+            category="TMZ"
+            pubdate="Sun, 04 May 2014 20:24:00 +0000"
+            series="TMZ Text News"
+            share_url="http://www.tmz.com/2014/05/04/donald-sterling-restraining-order-denied-cliff-paul/"
+            views="0"
+            votes="0" >
+
+            <description>
+Donald Sterling made racist comments about everyone from Beyonce to Charles Barkley ... if you believe an ex-Clippers "janitor" who filed for a restraining order against Sterling -- except no one in their right mind would believe this guy. TMZ obtained a copy of the court doc filed Friday by a Cliff Paul (yes, like the State Farm commercial) who claims he is ... related to Chris Paul, a former janitor for Sterling, and was technically savvy enough to bug Sterling's office for years. You get the picture ... this sounds like a crazy person. In the doc, he claims to have heard Sterling have hyper-racist convos about Beyonce, Chris Paul, Shaquille O'Neal, and Kim Kardashian --  and most of the language alleged in the document is far too racist to even repeat. Some tame examples -- Sterling allegedly said Charles Barkley's head looks like a "retread tire" ... and when George Zimmerman was acquitted, he allegedly said ... "Buy that guy a beer." According to the docs Sterling even went to an IHOP with Paula Deen just to laugh at Black dishwashers. Not shockingly ... the absurd request for a restraining order was quickly denied in a Florida District Court. No word if this will affect Cliff's contract with State Farm.
+            </description>
+
+            <thumbnail src="http://img.geo.rnmd.net/image/00000320-11597907.135x100.jpg" />
+
+            <content
+                id="2293001"
+                name="EXCLUSIVE: Donald Sterling -- Super Racist Comments About Celebs Alleged in Super Ridiculous Court Filing"
+                category="TMZ"
+                mediaType="text"
+                pubdate="Sun, 04 May 2014 20:24:00 +0000"
+                series="TMZ Text News"
+                share_url="http://www.tmz.com/2014/05/04/donald-sterling-restraining-order-denied-cliff-paul/"
+                url="http://img.geo.rnmd.net/image/00000320-11597907.jpg"
+                views="0"
+                votes="0" >
+
+                <thumbnail src="http://img.geo.rnmd.net/image/00000320-11597907.135x100.jpg" />
+            </content>
+        </link_item>
+
+        <link_item
+            id="2287626"
+            name="BREAKING NEWS: Bryan Singer -- New Sex Abuse Lawsuit ... Muscular Goon Tried Forcing Me to Screw Singer" >
+
+            <description>
+Bryan Singer is being accused of forcing himself on a British teenager after the "Superman Returns" premiere in London. Lawyer Jeff Herman -- who also represents Singer's other accuser Michael Egan -- is planning to file a lawsuit Monday on behalf of a John Doe ... which says Singer sexually assaulted an anonymous 17-year old boy inside a London hotel room following the "Superman" after party. The suit says Singer and Gary Goodard -- 1 of 3 execs Egan also accused of molestation -- started to touch his client sexually ... and the teen asked them to stop. According to the docs -- Goodard allegedly brought a "large, musclebound man" in the room to try forcing the boy into having sex by smacking him around. The anonymous teen claims Singer molested him in a number of ways -- but they never had sex -- then the director requested the boy to sit on his chest and ejaculate on top of him.  According to the docs, the teen obliged because he thought he'd be anally raped for saying no. Goddard's lawyer says the allegations are untrue. Bryan's lawyer Marty Singer says the same ... adding, "It is time for the media and public to focus their attention on Mr. Herman's nefarious motives and tactics which seem to be driven solely by his need to shake down an innocent man like Bryan Singer.”
+            </description>
+
+            <thumbnail src="http://img.geo.rnmd.net/image/00000320-11597944.135x100.jpg" />
+
+            <content
+                id="2437006"
+                name="TMZ Photo"
+                category="TMZ"
+                mediaType="image"
+                pubdate="Fri, 18 Apr 2014 08:29:19 +0000"
+                series="TMZ Photo"
+                share_url="http://www.tmz.com/photos/2014/04/18/bryan-singer-photos-through-the-years/"
+                url="http://img.geo.rnmd.net/image/00000320-11580348.jpg"
+                views="0"
+                votes="0" >
+
+                <thumbnail src="http://img.geo.rnmd.net/image/00000320-11580348.135x100.jpg" />
+            </content>
+
+            <content
+                id="2437007"
+                name="TMZ Photo"
+                category="TMZ"
+                mediaType="image"
+                pubdate="Fri, 18 Apr 2014 08:29:18 +0000"
+                series="TMZ Photo"
+                share_url="http://www.tmz.com/photos/2014/04/18/bryan-singer-photos-through-the-years/"
+                url="http://img.geo.rnmd.net/image/00000320-11580351.jpg"
+                views="0"
+                votes="0" >
+
+                <thumbnail src="http://img.geo.rnmd.net/image/00000320-11580351.135x100.jpg" />
+            </content>
+
+            <content
+                id="2437008"
+                name="TMZ Photo"
+                category="TMZ"
+                mediaType="image"
+                pubdate="Fri, 18 Apr 2014 08:29:17 +0000"
+                series="TMZ Photo"
+                share_url="http://www.tmz.com/photos/2014/04/18/bryan-singer-photos-through-the-years/"
+                url="http://img.geo.rnmd.net/image/00000320-11580354.jpg"
+                views="0"
+                votes="0" >
+
+                <thumbnail src="http://img.geo.rnmd.net/image/00000320-11580354.135x100.jpg" />
+            </content>
+
+            <content
+                id="2437009"
+                name="TMZ Photo"
+                category="TMZ"
+                mediaType="image"
+                pubdate="Fri, 18 Apr 2014 08:29:16 +0000"
+                series="TMZ Photo"
+                share_url="http://www.tmz.com/photos/2014/04/18/bryan-singer-photos-through-the-years/"
+                url="http://img.geo.rnmd.net/image/00000320-11580357.jpg"
+                views="0"
+                votes="0" >
+
+                <thumbnail src="http://img.geo.rnmd.net/image/00000320-11580357.135x100.jpg" />
+            </content>
+
+            <content
+                id="2437010"
+                name="TMZ Photo"
+                category="TMZ"
+                mediaType="image"
+                pubdate="Fri, 18 Apr 2014 08:29:15 +0000"
+                series="TMZ Photo"
+                share_url="http://www.tmz.com/photos/2014/04/18/bryan-singer-photos-through-the-years/"
+                url="http://img.geo.rnmd.net/image/00000320-11580360.jpg"
+                views="0"
+                votes="0" >
+
+                <thumbnail src="http://img.geo.rnmd.net/image/00000320-11580360.135x100.jpg" />
+            </content>
+
+            <content
+                id="2437011"
+                name="TMZ Photo"
+                category="TMZ"
+                mediaType="image"
+                pubdate="Fri, 18 Apr 2014 08:29:14 +0000"
+                series="TMZ Photo"
+                share_url="http://www.tmz.com/photos/2014/04/18/bryan-singer-photos-through-the-years/"
+                url="http://img.geo.rnmd.net/image/00000320-11580363.jpg"
+                views="0"
+                votes="0" >
+
+                <thumbnail src="http://img.geo.rnmd.net/image/00000320-11580363.135x100.jpg" />
+            </content>
+
+            <content
+                id="2437012"
+                name="TMZ Photo"
+                category="TMZ"
+                mediaType="image"
+                pubdate="Fri, 18 Apr 2014 08:29:13 +0000"
+                series="TMZ Photo"
+                share_url="http://www.tmz.com/photos/2014/04/18/bryan-singer-photos-through-the-years/"
+                url="http://img.geo.rnmd.net/image/00000320-11580366.jpg"
+                views="0"
+                votes="0" >
+
+                <thumbnail src="http://img.geo.rnmd.net/image/00000320-11580366.135x100.jpg" />
+            </content>
+
+            <content
+                id="2437013"
+                name="TMZ Photo"
+                category="TMZ"
+                mediaType="image"
+                pubdate="Fri, 18 Apr 2014 08:29:12 +0000"
+                series="TMZ Photo"
+                share_url="http://www.tmz.com/photos/2014/04/18/bryan-singer-photos-through-the-years/"
+                url="http://img.geo.rnmd.net/image/00000320-11580369.jpg"
+                views="0"
+                votes="0" >
+
+                <thumbnail src="http://img.geo.rnmd.net/image/00000320-11580369.135x100.jpg" />
+            </content>
+
+            <content
+                id="2437014"
+                name="TMZ Photo"
+                category="TMZ"
+                mediaType="image"
+                pubdate="Fri, 18 Apr 2014 08:29:11 +0000"
+                series="TMZ Photo"
+                share_url="http://www.tmz.com/photos/2014/04/18/bryan-singer-photos-through-the-years/"
+                url="http://img.geo.rnmd.net/image/00000320-11580370.jpg"
+                views="0"
+                votes="0" >
+
+                <thumbnail src="http://img.geo.rnmd.net/image/00000320-11580370.135x100.jpg" />
+            </content>
+
+            <content
+                id="2437015"
+                name="TMZ Photo"
+                category="TMZ"
+                mediaType="image"
+                pubdate="Fri, 18 Apr 2014 08:29:10 +0000"
+                series="TMZ Photo"
+                share_url="http://www.tmz.com/photos/2014/04/18/bryan-singer-photos-through-the-years/"
+                url="http://img.geo.rnmd.net/image/00000320-11580375.jpg"
+                views="0"
+                votes="0" >
+
+                <thumbnail src="http://img.geo.rnmd.net/image/00000320-11580375.135x100.jpg" />
+            </content>
+
+            <content
+                id="2437016"
+                name="TMZ Photo"
+                category="TMZ"
+                mediaType="image"
+                pubdate="Fri, 18 Apr 2014 08:29:09 +0000"
+                series="TMZ Photo"
+                share_url="http://www.tmz.com/photos/2014/04/18/bryan-singer-photos-through-the-years/"
+                url="http://img.geo.rnmd.net/image/00000320-11580378.jpg"
+                views="0"
+                votes="0" >
+
+                <thumbnail src="http://img.geo.rnmd.net/image/00000320-11580378.135x100.jpg" />
+            </content>
+
+            <content
+                id="2437017"
+                name="TMZ Photo"
+                category="TMZ"
+                mediaType="image"
+                pubdate="Fri, 18 Apr 2014 08:29:08 +0000"
+                series="TMZ Photo"
+                share_url="http://www.tmz.com/photos/2014/04/18/bryan-singer-photos-through-the-years/"
+                url="http://img.geo.rnmd.net/image/00000320-11580381.jpg"
+                views="0"
+                votes="0" >
+
+                <thumbnail src="http://img.geo.rnmd.net/image/00000320-11580381.135x100.jpg" />
+            </content>
+
+            <content
+                id="2437018"
+                name="TMZ Photo"
+                category="TMZ"
+                mediaType="image"
+                pubdate="Fri, 18 Apr 2014 08:29:07 +0000"
+                series="TMZ Photo"
+                share_url="http://www.tmz.com/photos/2014/04/18/bryan-singer-photos-through-the-years/"
+                url="http://img.geo.rnmd.net/image/00000320-11580384.jpg"
+                views="0"
+                votes="0" >
+
+                <thumbnail src="http://img.geo.rnmd.net/image/00000320-11580384.135x100.jpg" />
+            </content>
+
+            <content
+                id="2437019"
+                name="TMZ Photo"
+                category="TMZ"
+                mediaType="image"
+                pubdate="Fri, 18 Apr 2014 08:29:06 +0000"
+                series="TMZ Photo"
+                share_url="http://www.tmz.com/photos/2014/04/18/bryan-singer-photos-through-the-years/"
+                url="http://img.geo.rnmd.net/image/00000320-11580387.jpg"
+                views="0"
+                votes="0" >
+
+                <thumbnail src="http://img.geo.rnmd.net/image/00000320-11580387.135x100.jpg" />
+            </content>
+
+            <content
+                id="2437020"
+                name="TMZ Photo"
+                category="TMZ"
+                mediaType="image"
+                pubdate="Fri, 18 Apr 2014 08:29:05 +0000"
+                series="TMZ Photo"
+                share_url="http://www.tmz.com/photos/2014/04/18/bryan-singer-photos-through-the-years/"
+                url="http://img.geo.rnmd.net/image/00000320-11580390.jpg"
+                views="0"
+                votes="0" >
+
+                <thumbnail src="http://img.geo.rnmd.net/image/00000320-11580390.135x100.jpg" />
+            </content>
+
+            <content
+                id="2437021"
+                name="TMZ Photo"
+                category="TMZ"
+                mediaType="image"
+                pubdate="Fri, 18 Apr 2014 08:29:04 +0000"
+                series="TMZ Photo"
+                share_url="http://www.tmz.com/photos/2014/04/18/bryan-singer-photos-through-the-years/"
+                url="http://img.geo.rnmd.net/image/00000320-11580393.jpg"
+                views="0"
+                votes="0" >
+
+                <thumbnail src="http://img.geo.rnmd.net/image/00000320-11580393.135x100.jpg" />
+            </content>
+
+            <content
+                id="2437022"
+                name="TMZ Photo"
+                category="TMZ"
+                mediaType="image"
+                pubdate="Fri, 18 Apr 2014 08:29:03 +0000"
+                series="TMZ Photo"
+                share_url="http://www.tmz.com/photos/2014/04/18/bryan-singer-photos-through-the-years/"
+                url="http://img.geo.rnmd.net/image/00000320-11580396.jpg"
+                views="0"
+                votes="0" >
+
+                <thumbnail src="http://img.geo.rnmd.net/image/00000320-11580396.135x100.jpg" />
+            </content>
+
+            <content
+                id="2437023"
+                name="TMZ Photo"
+                category="TMZ"
+                mediaType="image"
+                pubdate="Fri, 18 Apr 2014 08:29:02 +0000"
+                series="TMZ Photo"
+                share_url="http://www.tmz.com/photos/2014/04/18/bryan-singer-photos-through-the-years/"
+                url="http://img.geo.rnmd.net/image/00000320-11580399.jpg"
+                views="0"
+                votes="0" >
+
+                <thumbnail src="http://img.geo.rnmd.net/image/00000320-11580399.135x100.jpg" />
+            </content>
+
+            <content
+                id="2437024"
+                name="TMZ Photo"
+                category="TMZ"
+                mediaType="image"
+                pubdate="Fri, 18 Apr 2014 08:29:01 +0000"
+                series="TMZ Photo"
+                share_url="http://www.tmz.com/photos/2014/04/18/bryan-singer-photos-through-the-years/"
+                url="http://img.geo.rnmd.net/image/00000320-11580402.jpg"
+                views="0"
+                votes="0" >
+
+                <thumbnail src="http://img.geo.rnmd.net/image/00000320-11580402.135x100.jpg" />
+            </content>
+
+            <content
+                id="2437025"
+                name="TMZ Photo"
+                category="TMZ"
+                mediaType="image"
+                pubdate="Fri, 18 Apr 2014 08:29:00 +0000"
+                series="TMZ Photo"
+                share_url="http://www.tmz.com/photos/2014/04/18/bryan-singer-photos-through-the-years/"
+                url="http://img.geo.rnmd.net/image/00000320-11580403.jpg"
+                views="0"
+                votes="0" >
+
+                <thumbnail src="http://img.geo.rnmd.net/image/00000320-11580403.135x100.jpg" />
+            </content>
+        </link_item>
+
+        <link_item
+            id="2292995"
+            name="BREAKING NEWS: Ringling Bros. Circus -- High Wire Accident ... Multiple Performers Injured [VIDEO]"
+            category="TMZ"
+            pubdate="Sun, 04 May 2014 18:23:00 +0000"
+            series="TMZ Text News"
+            share_url="http://www.tmz.com/2014/05/04/barnum-and-bailey-circus-performers-fall-injured-scary-video-high-wire/"
+            views="0"
+            votes="0" >
+
+            <description>
+A "Ringling Bros. and Barnum &amp; Bailey Circus" stunt went horribly wrong Sunday in Rhode Island when a high wire snapped ... sending multiple performers crashing to the ground ... and the frightening accident was caught on video. The performers were about to begin an aerial stunt in front of a packed house ... when the wire snapped, and several people fell about 30 feet. 11 people were transported to the hospital -- 9 were Ringling Bros. employees -- and according to reports, one person is in critical condition.  Moments after the crash, emergency responders raced to help the injured -- and the lights were dimmed to keep the children in the audience from seeing the terrifying scene. A rep for the Ringling Bros. says they're working with police to investigate the incident ... but they believe the accident was caused by an apparatus failing that holds performers by the hair.
+            </description>
+
+            <thumbnail src="http://img.geo.rnmd.net/image/00000320-11597884.135x100.jpg" />
+
+            <content
+                id="2292995"
+                name="BREAKING NEWS: Ringling Bros. Circus -- High Wire Accident ... Multiple Performers Injured [VIDEO]"
+                category="TMZ"
+                mediaType="text"
+                pubdate="Sun, 04 May 2014 18:23:00 +0000"
+                series="TMZ Text News"
+                share_url="http://www.tmz.com/2014/05/04/barnum-and-bailey-circus-performers-fall-injured-scary-video-high-wire/"
+                url="http://img.geo.rnmd.net/image/00000320-11597884.jpg"
+                views="0"
+                votes="0" >
+
+                <thumbnail src="http://img.geo.rnmd.net/image/00000320-11597884.135x100.jpg" />
+            </content>
+        </link_item>
+
+        <link_item
+            id="2292982"
+            name="Johnny Weir -- Does This Hat Make Me Look Gay?"
+            category="TMZ"
+            pubdate="Sun, 04 May 2014 15:06:00 +0000"
+            series="TMZ Text News"
+            share_url="http://www.tmz.com/2014/05/04/johnny-weir-my-fabulous-hat-wins-the-kentucky-derby/"
+            views="0"
+            votes="0" >
+
+            <description>
+Johnny Weir's hat won the Kentucky Derby yesterday. It was white. It was gold. It was feathery. It had a majestic winged horse. It was perfect. #eatyourheartoutTaraLipinski
+            </description>
+
+            <thumbnail src="http://img.geo.rnmd.net/image/00000320-11597842.135x100.jpg" />
+
+            <content
+                id="2292982"
+                name="Johnny Weir -- Does This Hat Make Me Look Gay?"
+                category="TMZ"
+                mediaType="text"
+                pubdate="Sun, 04 May 2014 15:06:00 +0000"
+                series="TMZ Text News"
+                share_url="http://www.tmz.com/2014/05/04/johnny-weir-my-fabulous-hat-wins-the-kentucky-derby/"
+                url="http://img.geo.rnmd.net/image/00000320-11597842.jpg"
+                views="0"
+                votes="0" >
+
+                <thumbnail src="http://img.geo.rnmd.net/image/00000320-11597842.135x100.jpg" />
+            </content>
+        </link_item>
+
+        <link_item
+            id="2292964"
+            name="EXCLUSIVE: Britney Spears Dancer -- You Broke My Nose And DIDN&apos;T CARE"
+            category="TMZ"
+            pubdate="Sun, 04 May 2014 08:00:00 +0000"
+            series="TMZ Text News"
+            share_url="http://www.tmz.com/2014/05/04/brittany-spears-dancer-lawsuit-broken-nose-work-bitch/"
+            views="0"
+            votes="0" >
+
+            <description>
+A dancer claims a disheveled and confused Britney Spears backhanded her in the face during a rehearsal, and Brit was so heartless ... she didn't even stop the rehearsal. Dancer Dawn Noel will file a lawsuit Monday ... claiming she was hired to shoot the music video for   "Work Bitch."  Dawn says on August 19, she showed up at the rehearsal studio in Woodland Hills, CA.  She and the other dancers perfected their moves for several hours, and then Britney arrived. Dawn says Brit showed up "in a disheveled and confused state," and had considerable difficulty executing even basic moves.  Dawn claims she was standing off to Britney's side, when the singer twirled while unbalanced, extending her hands and SMACKING Dawn in the face. Dawn says the impact was so forceful, everyone in the room heard a cracking sound. Dawn says she was in excruciating pain, but all Britney said was, "I'm sorry," and then continued the rehearsal. Dawn claims after a half hour she couldn't take the pain and went to a doctor, who told her she had a nasal bone fracture and needed surgery. Dawn claims Britney's people promised to pay the med bills, but after months of waiting she was told to pound sand.  So Dawn's lawyer Sark Ohanian from Carpenter, Zuckerman &amp; Rowley will file a lawsuit Monday against Britney. We called Britney's people ... so far, no comment.
+            </description>
+
+            <thumbnail src="http://img.geo.rnmd.net/image/00000320-11597784.135x100.jpg" />
+
+            <content
+                id="2292964"
+                name="EXCLUSIVE: Britney Spears Dancer -- You Broke My Nose And DIDN&apos;T CARE"
+                category="TMZ"
+                mediaType="text"
+                pubdate="Sun, 04 May 2014 08:00:00 +0000"
+                series="TMZ Text News"
+                share_url="http://www.tmz.com/2014/05/04/brittany-spears-dancer-lawsuit-broken-nose-work-bitch/"
+                url="http://img.geo.rnmd.net/image/00000320-11597784.jpg"
+                views="0"
+                votes="0" >
+
+                <thumbnail src="http://img.geo.rnmd.net/image/00000320-11597784.135x100.jpg" />
+            </content>
+        </link_item>
+
+        <link_item
+            id="2292979"
+            name="EXCLUSIVE: Secret Service Agent On Coveted Presidential Detail"
+            category="TMZ"
+            duration="31.31"
+            lastViewed="Tue, 06 May 2014 08:46:21 +0000"
+            pubdate="Sun, 04 May 2014 07:48:00 +0000"
+            series="TMZ Text News"
+            share_url="http://www.tmz.com/2014/05/04/obama-president-wash-car-white-house-correspondents-dinner-secret-service/"
+            views="14894"
+            votes="0" >
+
+            <description>
+There are many perks when you're the President of the United States  ... among them, you don't have keep the car wash punch card in your wallet so you get the 10th free. As Obama took shots at his rivals inside the Hilton Saturday night at the White House Correspondents Dinner, a dutiful Secret Service agent was on a VERY special detail -- polishing the Presidential limo. Our photog was on it, asking the right question -- does he Armor All the tires?
+            </description>
+
+            <thumbnail src="http://img.geo.rnmd.net/image/00000320-11597827.135x100.jpg" />
+
+            <content
+                id="2292979"
+                name="EXCLUSIVE: Secret Service Agent On Coveted Presidential Detail"
+                category="TMZ"
+                duration="31.31"
+                lastViewed="Tue, 06 May 2014 08:46:21 +0000"
+                mediaType="video"
+                pubdate="Sun, 04 May 2014 07:48:00 +0000"
+                series="TMZ Text News"
+                share_url="http://www.tmz.com/2014/05/04/obama-president-wash-car-white-house-correspondents-dinner-secret-service/"
+                url="00004982-11597824.mp4"
+                views="14894"
+                votes="0" >
+
+                <thumbnail src="http://img.geo.rnmd.net/image/00000320-11597827.135x100.jpg" />
+            </content>
+        </link_item>
+
+        <link_item
+            id="2292983"
+            name="EXCLUSIVE: Don Cheadle -- Screw Card Counting -- Casinos are the Villains"
+            category="TMZ"
+            duration="74.49"
+            lastViewed="Tue, 06 May 2014 08:40:20 +0000"
+            pubdate="Sun, 04 May 2014 07:46:00 +0000"
+            series="TMZ Text News"
+            share_url="http://www.tmz.com/2014/05/04/don-cheadle-ben-affleck-card-counting-las-vegas-blackjack-casino/"
+            views="5709"
+            votes="0" >
+
+            <description>
+Don Cheadle doesn't know jack about card-counting, but he's definitely on Ben Affleck's side ... because he clearly thinks the casinos are the real bad guys Our photog got Don leaving Locanda Portifino Friday in Santa Monica ... and the Oscar winner was on him game.  He knew it wasn't illegal to count cards, and he doesn't feel the least bit sorry for casinos which he thinks cross the ethical line all the time. TMZ broke the story ... Ben was booted from the Hard Rock for allegedly counting cards at the blackjack table. So, we gotta ask ...
+            </description>
+
+            <thumbnail src="http://img.geo.rnmd.net/image/00000320-11597846.135x100.jpg" />
+
+            <content
+                id="2292983"
+                name="EXCLUSIVE: Don Cheadle -- Screw Card Counting -- Casinos are the Villains"
+                category="TMZ"
+                duration="74.49"
+                lastViewed="Tue, 06 May 2014 08:40:20 +0000"
+                mediaType="video"
+                pubdate="Sun, 04 May 2014 07:46:00 +0000"
+                series="TMZ Text News"
+                share_url="http://www.tmz.com/2014/05/04/don-cheadle-ben-affleck-card-counting-las-vegas-blackjack-casino/"
+                url="00004982-11597833.mp4"
+                views="5709"
+                votes="0" >
+
+                <thumbnail src="http://img.geo.rnmd.net/image/00000320-11597846.135x100.jpg" />
+            </content>
+        </link_item>
+
+        <link_item
+            id="2292963"
+            name="EXCLUSIVE: James Cameron, Fox -- Sued For $1 BILLION -- You Jacked My Titanic Ride"
+            category="TMZ"
+            pubdate="Sun, 04 May 2014 07:45:00 +0000"
+            series="TMZ Text News"
+            share_url="http://www.tmz.com/2014/05/04/james-cameron-titanic-experience-chinese-lawsuit-fox-paramount/"
+            views="0"
+            votes="0" >
+
+            <description>
+It's the worst ride since "It's a Small World" ... a virtual reality simulator of the Titanic disaster ... and now the woman who came up with it has filed a BILLION dollar lawsuit. Faan Qin is suing James Cameron, 20th Century Fox, Paramount and others involved in the hit film, "Titanic" ... claiming they jacked her idea for a 3D ride that recreates the magical experience of crashing into an iceberg and sinking to a watery grave. According to the lawsuit -- obtained by TMZ -- Qin claims Cameron and the others copied her idea with something called "R.M.S. TITANIC-THE EXPERIENCE" -- featured in the O.C. and Orlando -- and they've have made a killing off of it. Qin claims Cameron's attraction has made more than $343 million ... but she wants 3 times that to teach this Hollywood titan a lesson ... TITAN ... get it?
+            </description>
+
+            <thumbnail src="http://img.geo.rnmd.net/image/00000320-11597780.135x100.jpg" />
+
+            <content
+                id="2292963"
+                name="EXCLUSIVE: James Cameron, Fox -- Sued For $1 BILLION -- You Jacked My Titanic Ride"
+                category="TMZ"
+                mediaType="text"
+                pubdate="Sun, 04 May 2014 07:45:00 +0000"
+                series="TMZ Text News"
+                share_url="http://www.tmz.com/2014/05/04/james-cameron-titanic-experience-chinese-lawsuit-fox-paramount/"
+                url="http://img.geo.rnmd.net/image/00000320-11597780.jpg"
+                views="0"
+                votes="0" >
+
+                <thumbnail src="http://img.geo.rnmd.net/image/00000320-11597780.135x100.jpg" />
+            </content>
+        </link_item>
+
+        <link_item
+            id="2292962"
+            name="EXCLUSIVE: &apos;Love and Hip Hop Atlanta&apos; -- Beef Up the Security ... Decrease the Ratchet"
+            category="TMZ"
+            pubdate="Sun, 04 May 2014 07:30:00 +0000"
+            series="TMZ Text News"
+            share_url="http://www.tmz.com/2014/05/04/love-and-hip-hop-atlanta-increase-security-guards/"
+            views="0"
+            votes="0" >
+
+            <description>
+"Love &amp; Hip Hop Atlanta" producers are making cutbacks on bloodshed by increasing security during shoots, and Lil Scrappy can testify ... it's already saved him from brawling with a FEMALE co-star. Sources close to production tell TMZ ... Scrappy and a new cast member named Erica Pinkett had to be separated by the new security force after she threw wine in his face during a dinner this week. We're told producers have added security -- it's now one guard for every cast member --- on all shoots to keep things from getting "too ratchet." We're also told it isn't just cast-on-cast violence they're guarding against ... it's also civilians trying to attack the show's stars. As one cast member put it ... "That s*** gets ratchet and now the bodyguards shutting that s*** down." Words to live by.
+            </description>
+
+            <thumbnail src="http://img.geo.rnmd.net/image/00000320-11597776.135x100.jpg" />
+
+            <content
+                id="2292962"
+                name="EXCLUSIVE: &apos;Love and Hip Hop Atlanta&apos; -- Beef Up the Security ... Decrease the Ratchet"
+                category="TMZ"
+                mediaType="text"
+                pubdate="Sun, 04 May 2014 07:30:00 +0000"
+                series="TMZ Text News"
+                share_url="http://www.tmz.com/2014/05/04/love-and-hip-hop-atlanta-increase-security-guards/"
+                url="http://img.geo.rnmd.net/image/00000320-11597776.jpg"
+                views="0"
+                votes="0" >
+
+                <thumbnail src="http://img.geo.rnmd.net/image/00000320-11597776.135x100.jpg" />
+            </content>
+        </link_item>
+
+        <link_item
+            id="2292961"
+            name="EXCLUSIVE: V. Stiviano -- At Least I&apos;m Good For the Visor Biz"
+            category="TMZ"
+            pubdate="Sun, 04 May 2014 07:15:00 +0000"
+            series="TMZ Text News"
+            share_url="http://www.tmz.com/2014/05/04/v-stiviano-donald-sterling-visors-racist-rant-audio/"
+            views="0"
+            votes="0" >
+
+            <description>
+If you ever thought about getting into the multi-colored visor business, now's a great time -- 'cause V. Stiviano's love for face covers started a boom. We spoke with a company who sells the colored visors online ... and the guy who runs it says sales are SOARING following the drama surrounding Donald Sterling's racist rant. The company went from selling around 5 a day, to at least 100 ... with red and blue selling the most -- the same colors V's been sporting around town. No one has outright said they made the purchase because of her but the owner says he can't single out any other reason for the sudden interest. She's still ruining the sugar baby biz.
+            </description>
+
+            <thumbnail src="http://img.geo.rnmd.net/image/00000320-11597772.135x100.jpg" />
+
+            <content
+                id="2292961"
+                name="EXCLUSIVE: V. Stiviano -- At Least I&apos;m Good For the Visor Biz"
+                category="TMZ"
+                mediaType="text"
+                pubdate="Sun, 04 May 2014 07:15:00 +0000"
+                series="TMZ Text News"
+                share_url="http://www.tmz.com/2014/05/04/v-stiviano-donald-sterling-visors-racist-rant-audio/"
+                url="http://img.geo.rnmd.net/image/00000320-11597772.jpg"
+                views="0"
+                votes="0" >
+
+                <thumbnail src="http://img.geo.rnmd.net/image/00000320-11597772.135x100.jpg" />
+            </content>
+        </link_item>
+
+        <link_item
+            id="2292960"
+            name="What&apos;s the Big Frigin&apos; Difference?!"
+            category="TMZ"
+            pubdate="Sun, 04 May 2014 07:10:00 +0000"
+            series="TMZ Text News"
+            share_url="http://www.tmz.com/2014/05/04/http-www-tmz-com-category-whats-the-big-frigin-difference/"
+            views="0"
+            votes="0" >
+
+            <description>
+Take a little time to soak in the beauty that is Georgia May Jagger... If you get bored of staring at her -- see if you can spot the subtle differences we've snuck into the seemingly identical images. **HINT -- There are THREE differences in the above photographs!** 
+            </description>
+
+            <thumbnail src="http://img.geo.rnmd.net/image/00000320-11597768.135x100.jpg" />
+
+            <content
+                id="2292960"
+                name="What&apos;s the Big Frigin&apos; Difference?!"
+                category="TMZ"
+                mediaType="text"
+                pubdate="Sun, 04 May 2014 07:10:00 +0000"
+                series="TMZ Text News"
+                share_url="http://www.tmz.com/2014/05/04/http-www-tmz-com-category-whats-the-big-frigin-difference/"
+                url="http://img.geo.rnmd.net/image/00000320-11597768.jpg"
+                views="0"
+                votes="0" >
+
+                <thumbnail src="http://img.geo.rnmd.net/image/00000320-11597768.135x100.jpg" />
+            </content>
+        </link_item>
+
+        <link_item
+            id="2292959"
+            name="Jason Alexander: Good Genes or Good Docs?"
+            category="TMZ"
+            pubdate="Sun, 04 May 2014 07:05:00 +0000"
+            series="TMZ Text News"
+            share_url="http://www.tmz.com/2014/05/04/jason-alexander-good-genes-or-good-docs/"
+            views="0"
+            votes="0" >
+
+            <description>
+There's nothing funny about Jason Alexander's looks! Here's the the 35-year-old "Seinfeld" star at a comedy benefit back in 1994 (left) and 20 years later, the now 54-year-old father of two at a fancy ball in Beverley Hills earlier this week (right). "I think it moved." The question is...
+            </description>
+
+            <thumbnail src="http://img.geo.rnmd.net/image/00000320-11597764.135x100.jpg" />
+
+            <content
+                id="2292959"
+                name="Jason Alexander: Good Genes or Good Docs?"
+                category="TMZ"
+                mediaType="text"
+                pubdate="Sun, 04 May 2014 07:05:00 +0000"
+                series="TMZ Text News"
+                share_url="http://www.tmz.com/2014/05/04/jason-alexander-good-genes-or-good-docs/"
+                url="http://img.geo.rnmd.net/image/00000320-11597764.jpg"
+                views="0"
+                votes="0" >
+
+                <thumbnail src="http://img.geo.rnmd.net/image/00000320-11597764.135x100.jpg" />
+            </content>
+        </link_item>
+
+        <link_item
+            id="2292925"
+            name="BREAKING NEWS: Diane Keaton -- I Don&apos;t Think Woody Allen Molested Dylan Farrow"
+            category="TMZ"
+            pubdate="Sat, 03 May 2014 20:16:00 +0000"
+            series="TMZ Text News"
+            share_url="http://www.tmz.com/2014/05/03/diane-keaton-woody-allen-dylan-farrow-molestation-defend/"
+            views="0"
+            votes="0" >
+
+            <description>
+Diane Keaton is calling BS on Woody Allen's daughter Dylan Farrow ... who has accused him of molesting her ... telling a UK magazine his adopted daughter was just looking for headlines. Keaton was promoting her new memoir with the UK Guardian ... and said she's not angry at Dylan for villainizing her in a February NY Times op-ed. Dylan blasted D.K. for honoring Woody at the Golden Globes saying, “You knew me when I was a little girl, Diane Keaton. Have you forgotten me?" Keaton explains, "What are they going to do? Who else are they going to drag in? They have to drag someone in. I don't resent it, not for a second." But the reporter pushed back ... looking for comment on Farrow accusing Diane of publicly defending a child molester.  Keaton responded, saying, "I have nothing to say about that. Except: I believe my friend." We're guessing this won't sit well with the Farrow family.
+            </description>
+
+            <thumbnail src="http://img.geo.rnmd.net/image/00000320-11597642.135x100.jpg" />
+
+            <content
+                id="2292925"
+                name="BREAKING NEWS: Diane Keaton -- I Don&apos;t Think Woody Allen Molested Dylan Farrow"
+                category="TMZ"
+                mediaType="text"
+                pubdate="Sat, 03 May 2014 20:16:00 +0000"
+                series="TMZ Text News"
+                share_url="http://www.tmz.com/2014/05/03/diane-keaton-woody-allen-dylan-farrow-molestation-defend/"
+                url="http://img.geo.rnmd.net/image/00000320-11597642.jpg"
+                views="0"
+                votes="0" >
+
+                <thumbnail src="http://img.geo.rnmd.net/image/00000320-11597642.135x100.jpg" />
+            </content>
+        </link_item>
+
+        <link_item
+            id="2292915"
+            name="EXCLUSIVE: Donald Sterling -- First Black Ally"
+            category="TMZ"
+            pubdate="Sat, 03 May 2014 18:01:00 +0000"
+            series="TMZ Text News"
+            share_url="http://www.tmz.com/2014/05/03/donald-sterling-black-model-photo-beverly-hills-polo-lounge/"
+            views="0"
+            votes="0" >
+
+            <description>
+Donald Sterling apparently prefers black models to Barbara Walters, because hours after rejecting Babs, he got all handsy with a beautiful black model at a Beverly Hills hotspot. TMZ Sports got the photo ... Sterling made a beeline Friday afternoon from the Four Seasons Hotel in Bev Hills to the Beverly Hills Hotel, where he dined with 3 women and 2 men at the famed Polo Lounge. We're told Donald had some wine at the table and was little tipsy, when he got up to leave and a beautiful black model named Jasmine and her boyfriend got up from the bar and followed him to the front of the restaurant. We're told Jasmine asked Sterling if she could take a photo with him, and he responded, "I'm not that popular right now.  Are you sure?'  Jasmine said she was game, and her boyfriend -- who is white and Jewish -- snapped away. Jasmine tells TMZ Sports ... Sterling then told her repeatedly how beautiful she was and put his hands around her several more times.  Jasmine tells us, "He was definitely checking me out.  He wasn't really looking at my face that much." As for how Jasmine feels about Sterling, she says,  "It's 2014.  I feel that everyone is a little bit racist and comedians joke about it all the time.  But yeah, I do think he's racist." But it wasn't all smooth sailing for Sterling.  Inside the Polo Lounge a black guy angrily stared him down the entire meal.
+            </description>
+
+            <thumbnail src="http://img.geo.rnmd.net/image/00000320-11597612.135x100.jpg" />
+
+            <content
+                id="2292915"
+                name="EXCLUSIVE: Donald Sterling -- First Black Ally"
+                category="TMZ"
+                mediaType="text"
+                pubdate="Sat, 03 May 2014 18:01:00 +0000"
+                series="TMZ Text News"
+                share_url="http://www.tmz.com/2014/05/03/donald-sterling-black-model-photo-beverly-hills-polo-lounge/"
+                url="http://img.geo.rnmd.net/image/00000320-11597612.jpg"
+                views="0"
+                votes="0" >
+
+                <thumbnail src="http://img.geo.rnmd.net/image/00000320-11597612.135x100.jpg" />
+            </content>
+        </link_item>
+
+        <link_item
+            id="2292904"
+            name="EXCLUSIVE: Columbus Short -- Shoots VIDEO of Wife in VIOLENT FIGHT"
+            category="TMZ"
+            duration="46.29"
+            lastViewed="Tue, 06 May 2014 08:42:16 +0000"
+            pubdate="Sat, 03 May 2014 08:00:00 +0000"
+            series="TMZ Text News"
+            share_url="http://www.tmz.com/2014/05/03/columbus-short-wife-fight-video-divorce-domestic-violence/"
+            views="50615"
+            votes="0" >
+
+            <description>
+Columbus Short shot this video to show his estranged wife was the violent one in this relationship ... and one thing's for sure -- she can be a real fighter. Here's the back story ... Columbus was arrested for domestic violence for an incident at his house February 18 ... accused of beating his wife Tanee McCall (the woman on top in the video). The next day -- after Columbus bailed out of jail -- he asked his friend Tilly Key to come to his house to pick him up.   We're told Tanee went ballistic when she saw Tilly in the house, and that's when Tanee attacked. Tilly wanted TMZ to post the video, to show Tanee is violent and even threatened her life.  Tilly says she suffered a concussion, a cervical sprain, multiple contusions, a lumbar sprain and lumbar strain. TMZ broke the story ... Tanee has filed for divorce and got a protective order forcing Columbus out of the house.
+            </description>
+
+            <thumbnail src="http://img.geo.rnmd.net/image/00000320-11597579.135x100.jpg" />
+
+            <content
+                id="2292904"
+                name="EXCLUSIVE: Columbus Short -- Shoots VIDEO of Wife in VIOLENT FIGHT"
+                category="TMZ"
+                duration="46.29"
+                lastViewed="Tue, 06 May 2014 08:42:16 +0000"
+                mediaType="video"
+                pubdate="Sat, 03 May 2014 08:00:00 +0000"
+                series="TMZ Text News"
+                share_url="http://www.tmz.com/2014/05/03/columbus-short-wife-fight-video-divorce-domestic-violence/"
+                url="00004982-11597554.mp4"
+                views="50615"
+                votes="0" >
+
+                <thumbnail src="http://img.geo.rnmd.net/image/00000320-11597579.135x100.jpg" />
+            </content>
+        </link_item>
+
+        <link_item
+            id="2292894"
+            name="V Stiviano -- I Was Donald Sterling&apos;s Right Hand Arm ... Man"
+            category="TMZ"
+            duration="164.98"
+            lastViewed="Tue, 06 May 2014 08:45:00 +0000"
+            pubdate="Sat, 03 May 2014 07:55:00 +0000"
+            series="TMZ Text News"
+            share_url="http://www.tmz.com/2014/05/03/v-stiviano-20-20-interview-barbara-walters-donald-sterling/"
+            views="24601"
+            votes="0" >
+
+            <description>
+She didn't disappoint.  V. Stiviano sat for a bizarre interview with Barbara Walters Friday afternoon, in which she proclaimed the Clippers owner is NOT a racist. The interview -- which aired on 20/20 Friday night -- is hard to swallow.  V. says she's wearing her famous visor because it somehow masks her pain.  What she doesn't explain is why a person in such pain would seek out every place possible where there were paparazzi, including The Grove, and various restaurants and hot Hollywood clubs. There's interesting subtext .. she seems to say Donald Sterling's friends were jealous of her and were talking smack about the people she hung with ... thugs and the like.  Somehow -- according to her --  that got translated into black people in Sterling's head.  TMZ broke the story ... V. and Sterling showed up at the Four Seasons Hotel in Bev Hills and spent hours together, as Babs and Anderson Cooper lobbied Sterling to sit for an interview.  Sterling eventually turned them down, saying he was not prepared. Poor Anderson.  
+            </description>
+
+            <thumbnail src="http://img.geo.rnmd.net/image/00000320-11597546.135x100.jpg" />
+
+            <content
+                id="2292894"
+                name="V Stiviano -- I Was Donald Sterling&apos;s Right Hand Arm ... Man"
+                category="TMZ"
+                duration="164.98"
+                lastViewed="Tue, 06 May 2014 08:45:00 +0000"
+                mediaType="video"
+                pubdate="Sat, 03 May 2014 07:55:00 +0000"
+                series="TMZ Text News"
+                share_url="http://www.tmz.com/2014/05/03/v-stiviano-20-20-interview-barbara-walters-donald-sterling/"
+                url="00004982-11597543.mp4"
+                views="24601"
+                votes="0" >
+
+                <thumbnail src="http://img.geo.rnmd.net/image/00000320-11597546.135x100.jpg" />
+            </content>
+        </link_item>
+
+        <link_item
+            id="2292879"
+            name="EXCLUSIVE: Dodgers Star Josh Beckett -- Witnesses Say Bartender&apos;s N-Word Allegation -- BOGUS"
+            category="TMZ"
+            pubdate="Sat, 03 May 2014 07:50:00 +0000"
+            series="TMZ Text News"
+            share_url="http://www.tmz.com/2014/05/03/dodgers-josh-beckett-bartender-n-word/"
+            views="0"
+            votes="0" >
+
+            <description>
+A Minnesota bartender claims L.A. Dodgers pitcher Josh Beckett hurled the N-word (with an R) at her ... but the Dodgers say they've been investigating the claim and there's NO evidence to support it ... sources connected with the team tell TMZ Sports. The bartender says Beckett -- along with pitcher Clayton Kershaw, Orel Hershiser and 3 other Dodgers broadcasters -- were at the bar at the Grand Hotel Minneapolis on April 28th when Beckett allegedly dropped the N-bomb.
+ In a complaint she filed with the hotel, Mary Rohr says, "He used the N-word towards [sic] me while hanging on his teammate, Clayton Kershaw, and then asked for another cocktail," the bartender said in a letter to hotel management. She insinuates Beckett was drunk and she was cutting him off, claiming, "I offered him a water and he began cursing at me." Rohr says she confronted Kershaw when Beckett was in the bathroom, and he said, "Well, he's from Texas." Sources connected with the Dodgers tell TMZ Sports ... they take any such allegation seriously and launched a full investigation, but so far her story seems "absolutely false." We know Beckett told the team he absolutely did not use the N-word. There are problems with Rohr's story.  For starters, Clayton Kershaw was nowhere NEAR Minneapolis Monday ... we've learned he never set foot in Minnesota that day.  Now we're told Rohr has changed her story and is saying the guy LOOKED like Kershaw but it was actually Dodgers pitcher Paul Maholm. Second ... our Dodgers sources say the team has contacted Hershiser, who said, "There was no incident and Beckett never said that."   We're told Rohr claims Hershiser made a beeline for the door after hearing Beckett hurl the epithet, but Hershiser told the team, "I certainly didn't make a beeline for the door.  That's absolutely false." Dodgers sources say they've interviewed various people connected with the team who were in the bar  -- and NO ONE heard Beckett get angry and use the N-word.
+            </description>
+
+            <thumbnail src="http://img.geo.rnmd.net/image/00000320-11597503.135x100.jpg" />
+
+            <content
+                id="2292879"
+                name="EXCLUSIVE: Dodgers Star Josh Beckett -- Witnesses Say Bartender&apos;s N-Word Allegation -- BOGUS"
+                category="TMZ"
+                mediaType="text"
+                pubdate="Sat, 03 May 2014 07:50:00 +0000"
+                series="TMZ Text News"
+                share_url="http://www.tmz.com/2014/05/03/dodgers-josh-beckett-bartender-n-word/"
+                url="http://img.geo.rnmd.net/image/00000320-11597503.jpg"
+                views="0"
+                votes="0" >
+
+                <thumbnail src="http://img.geo.rnmd.net/image/00000320-11597503.135x100.jpg" />
+            </content>
+        </link_item>
+
+        <link_item
+            id="2292878"
+            name="Stars and Scars -- You Be the Judge"
+            category="TMZ"
+            pubdate="Sat, 03 May 2014 07:40:00 +0000"
+            series="TMZ Text News"
+            share_url="http://www.tmz.com/2014/05/03/stars-and-scars-you-be-the-judge/"
+            views="0"
+            votes="0" >
+
+            <description>
+The fallout over the Donald Sterling audio has been amazing.  And V. Stiviano has kinda sorta become a star.  So we gotta ask ...
+            </description>
+
+            <thumbnail src="http://img.geo.rnmd.net/image/00000320-11597499.135x100.jpg" />
+
+            <content
+                id="2292878"
+                name="Stars and Scars -- You Be the Judge"
+                category="TMZ"
+                mediaType="text"
+                pubdate="Sat, 03 May 2014 07:40:00 +0000"
+                series="TMZ Text News"
+                share_url="http://www.tmz.com/2014/05/03/stars-and-scars-you-be-the-judge/"
+                url="http://img.geo.rnmd.net/image/00000320-11597499.jpg"
+                views="0"
+                votes="0" >
+
+                <thumbnail src="http://img.geo.rnmd.net/image/00000320-11597499.135x100.jpg" />
+            </content>
+        </link_item>
+
+        <link_item
+            id="2292905"
+            name="EXCLUSIVE: &apos;Scandal&apos; Star Scott Foley -- I Don&apos;t Believe Kerry Washington Gave Birth!"
+            category="TMZ"
+            duration="69.65"
+            lastViewed="Tue, 06 May 2014 08:41:41 +0000"
+            pubdate="Sat, 03 May 2014 07:37:00 +0000"
+            series="TMZ Text News"
+            share_url="http://www.tmz.com/2014/05/03/kerry-washington-baby-scandal-stars-scott-foley-joe-morten-no-idea/"
+            views="11587"
+            votes="0" >
+
+            <description>
+Kerry Washington's TV secret spy/love interest does NOT believe she really had her kid. Our camera guy spotted Scott Foley at Reagan International Airport in D.C. Friday, and the former head of B613 just couldn't process the story we broke ... that Kerry gave birth to a baby girl 8 days before we posted it on the website and somehow kept it under wraps. Kerry's TV dad, Joe Morton was also in D.C., and he confessed Olivia Pope kept the baby news safely hidden from the entire  "Scandal" staff. You gotta see Scott's reaction ... he simply refuses to believe our photog.
+            </description>
+
+            <thumbnail src="http://img.geo.rnmd.net/image/00000320-11597582.135x100.jpg" />
+
+            <content
+                id="2292905"
+                name="EXCLUSIVE: &apos;Scandal&apos; Star Scott Foley -- I Don&apos;t Believe Kerry Washington Gave Birth!"
+                category="TMZ"
+                duration="69.65"
+                lastViewed="Tue, 06 May 2014 08:41:41 +0000"
+                mediaType="video"
+                pubdate="Sat, 03 May 2014 07:37:00 +0000"
+                series="TMZ Text News"
+                share_url="http://www.tmz.com/2014/05/03/kerry-washington-baby-scandal-stars-scott-foley-joe-morten-no-idea/"
+                url="00004982-11597576.mp4"
+                views="11587"
+                votes="0" >
+
+                <thumbnail src="http://img.geo.rnmd.net/image/00000320-11597582.135x100.jpg" />
+            </content>
+        </link_item>
+
+        <link_item
+            id="2292906"
+            name="EXCLUSIVE: Cara Delevigne -- I Have a Pet Name For Sienna Miller"
+            category="TMZ"
+            duration="83.93"
+            lastViewed="Tue, 06 May 2014 08:44:59 +0000"
+            pubdate="Sat, 03 May 2014 07:36:00 +0000"
+            series="TMZ Text News"
+            share_url="http://www.tmz.com/2014/05/03/cara-delevigne-sienna-miller-pet-name-dating/"
+            views="8622"
+            votes="0" >
+
+            <description>
+Cara Delevigne was coy about that pic that was snapped a few days back with her and Sienna Miller ... but our ears perked up when she told us about the nickname Cara gave her. Cara was in a chatty mood as she left JFK ... but she tightened up when our photog asked what's up with her and Sienna Miller. The 21-year old model then revealed the nickname  ... but we couldn't figure out what it means, no matter how much we googled. If you have an idea, sound off in the comments.
+            </description>
+
+            <thumbnail src="http://img.geo.rnmd.net/image/00000320-11597585.135x100.jpg" />
+
+            <content
+                id="2292906"
+                name="EXCLUSIVE: Cara Delevigne -- I Have a Pet Name For Sienna Miller"
+                category="TMZ"
+                duration="83.93"
+                lastViewed="Tue, 06 May 2014 08:44:59 +0000"
+                mediaType="video"
+                pubdate="Sat, 03 May 2014 07:36:00 +0000"
+                series="TMZ Text News"
+                share_url="http://www.tmz.com/2014/05/03/cara-delevigne-sienna-miller-pet-name-dating/"
+                url="00004982-11597572.mp4"
+                views="8622"
+                votes="0" >
+
+                <thumbnail src="http://img.geo.rnmd.net/image/00000320-11597585.135x100.jpg" />
+            </content>
+        </link_item>
+
+        <link_item
+            id="2292883"
+            name="BREAKING NEWS: &apos;FBI&apos; Star Efrem Zimbalist Jr. Dead ... Dies at 95"
+            category="TMZ"
+            lastViewed="Sat, 03 May 2014 18:00:54 +0000"
+            pubdate="Sat, 03 May 2014 07:35:00 +0000"
+            series="TMZ Text News"
+            share_url="http://www.tmz.com/2014/05/03/fbi-star-efrem-zimbalist-jr-dead-dies-95-77-sunset-strip/"
+            views="1"
+            votes="0" >
+
+            <description>
+In the annals of TV history, Effrem Zimbalist Jr. was definitely top of the heap ... he died Friday at 95. Zimbalist starred in "The FBI" -- an ENORMOUS hit in the '60s and '70s in which he played an amazingly handsome and smooth G-man. "FBI" was by no means his only big score.  In the late '50s and '60s he starred in a show that re-set pop culture -- "77 Sunset Strip," playing a snarky P.I.
+            </description>
+
+            <thumbnail src="http://img.geo.rnmd.net/image/00000320-11597515.135x100.jpg" />
+
+            <content
+                id="2292883"
+                name="BREAKING NEWS: &apos;FBI&apos; Star Efrem Zimbalist Jr. Dead ... Dies at 95"
+                category="TMZ"
+                lastViewed="Sat, 03 May 2014 18:00:54 +0000"
+                mediaType="text"
+                pubdate="Sat, 03 May 2014 07:35:00 +0000"
+                series="TMZ Text News"
+                share_url="http://www.tmz.com/2014/05/03/fbi-star-efrem-zimbalist-jr-dead-dies-95-77-sunset-strip/"
+                url="http://img.geo.rnmd.net/image/00000320-11597515.jpg"
+                views="1"
+                votes="0" >
+
+                <thumbnail src="http://img.geo.rnmd.net/image/00000320-11597515.135x100.jpg" />
+            </content>
+        </link_item>
+
+        <link_item
+            id="2292877"
+            name="EXCLUSIVE: Johnny Weir&apos;s Husband -- Me So Pony ... I&apos;m Saddling Up with Johnny at Kentucky Derby"
+            category="TMZ"
+            pubdate="Sat, 03 May 2014 07:30:00 +0000"
+            series="TMZ Text News"
+            share_url="http://www.tmz.com/2014/05/03/johnny-weir-victor-voronov-kentucky-derby-divorce-marriage/"
+            views="0"
+            votes="0" >
+
+            <description>
+Giddyup -- Johnny Weir and Victor Voronov will be making their first public appearance as husbands reunited this weekend ... at the Kentucky Derby ... so we're told. As we reported, Weir will be covering the Derby for NBC as a fashion expert with Tara Lipinski -- but any free time he has will be spent with Victor. We're told Victor really wanted to cement the couple's reconciliation after they slammed the brakes on their nasty divorce last month ... and the Derby felt like the perfect opportunity. TMZ broke the story ... Johnny and Victor reunited after agreeing to sign a post-nup document, promising each other various weird things ... including never to masturbate with other people. Sounds reasonable.
+            </description>
+
+            <thumbnail src="http://img.geo.rnmd.net/image/00000320-11597495.135x100.jpg" />
+
+            <content
+                id="2292877"
+                name="EXCLUSIVE: Johnny Weir&apos;s Husband -- Me So Pony ... I&apos;m Saddling Up with Johnny at Kentucky Derby"
+                category="TMZ"
+                mediaType="text"
+                pubdate="Sat, 03 May 2014 07:30:00 +0000"
+                series="TMZ Text News"
+                share_url="http://www.tmz.com/2014/05/03/johnny-weir-victor-voronov-kentucky-derby-divorce-marriage/"
+                url="http://img.geo.rnmd.net/image/00000320-11597495.jpg"
+                views="0"
+                votes="0" >
+
+                <thumbnail src="http://img.geo.rnmd.net/image/00000320-11597495.135x100.jpg" />
+            </content>
+        </link_item>
+    </section>
+
+    <epg:index xmlns:epg="http://www.rhythmnetworks.com/epg" >
+
+        <section
+            id="kboe5m_ate3w0_1fts2jn"
+            name="BREAKING NEWS"
+            alias="BREAKING NEWS"
+            href="/vsnaxepg/epgxml.do?id=kboe5m_ate3w0_1fts2jn&amp;carrier=TMZ"
+            pagelength="30"
+            zone="a14ae24a6aec9b0" >
+
+            <section
+                id="kboe6p_atywik_1q9wanu"
+                name="VIDEOS"
+                alias="VIDEOS"
+                href="/vsnaxepg/epgxml.do?id=kboe6p_atywik_1q9wanu&amp;carrier=TMZ"
+                pagelength="25"
+                zone="a14ae0d320e8a47" />
+
+            <section
+                id="kboe6r_au2bwi_seirms"
+                name="PHOTO GALLERIES"
+                alias="PHOTO GALLERIES"
+                href="/vsnaxepg/epgxml.do?id=kboe6r_au2bwi_seirms&amp;carrier=TMZ"
+                pagelength="1000"
+                zone="a14ae24ace1b2b7" />
+
+            <section
+                id="kboe6t_atx1eq_oa91nw"
+                name="TMZ TV"
+                alias="TMZ TV"
+                href="/vsnaxepg/epgxml.do?id=kboe6t_atx1eq_oa91nw&amp;carrier=TMZ"
+                pagelength="25"
+                zone="a14ae24aff14b4f" >
+
+                <section
+                    id="kskaj3_a9b15c_1n6c0zv"
+                    name="Hidden Section"
+                    alias="hidden"
+                    href="/vsnaxepg/epgxml.do?id=kskaj3_a9b15c_1n6c0zv&amp;carrier=TMZ" >
+
+                    <section
+                        id="kt6m4w_a68rm0_1lup48g"
+                        name="Adunits"
+                        alias="Adunits"
+                        href="/vsnaxepg/epgxml.do?id=kt6m4w_a68rm0_1lup48g&amp;carrier=TMZ" />
+
+                    <section
+                        id="lqtd93_8bbp1xr2w_ht070i"
+                        name="ShareCanada"
+                        alias="ShareCanada"
+                        href="/vsnaxepg/epgxml.do?id=lqtd93_8bbp1xr2w_ht070i&amp;carrier=TMZ" />
+
+                    <section
+                        id="gtnkpwlx_9g269_rx3e0i"
+                        name="AndroidAdunits"
+                        alias="AndroidAdunits"
+                        href="/vsnaxepg/epgxml.do?id=gtnkpwlx_9g269_rx3e0i&amp;carrier=TMZ" />
+
+                    <section
+                        id="gkluvso0_nr2m2_aeuxus"
+                        name="CanadaAdunits"
+                        alias="CanadaAdunits"
+                        href="/vsnaxepg/epgxml.do?id=gkluvso0_nr2m2_aeuxus&amp;carrier=TMZ" />
+
+                    <section
+                        id="g6cm321o_r1qkg_qgb8zl"
+                        name="android share email"
+                        alias="androidshare"
+                        href="/vsnaxepg/epgxml.do?id=g6cm321o_r1qkg_qgb8zl&amp;carrier=TMZ" />
+
+                    <section
+                        id="kskajo_a8msj6_ye9gs"
+                        name="share links"
+                        alias="share"
+                        href="/vsnaxepg/epgxml.do?id=kskajo_a8msj6_ye9gs&amp;carrier=TMZ" />
+                </section>
+            </section>
+        </section>
+    </epg:index>
+
+</epg>

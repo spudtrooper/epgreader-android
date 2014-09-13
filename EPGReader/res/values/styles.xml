@@ -1,0 +1,203 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <style name="AppBaseTheme" parent="Theme.AppCompat.Light"></style>
+
+    <style name="AppTheme" parent="AppBaseTheme"></style>
+
+    <style name="header">
+        <item name="android:background">@color/header_background</item>
+        <item name="android:layout_height">35dp</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:paddingLeft">5dp</item>
+        <item name="android:paddingRight">5dp</item>
+    </style>
+
+    <style name="header_title_general">
+        <item name="android:background">@color/header_background</item>
+        <item name="android:textColor">@color/header_foreground</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:layout_gravity">center_vertical</item>
+    </style>
+
+    <style name="header_title" parent="header_title_general">
+        <item name="android:textStyle">bold</item>
+        <item name="android:background">@drawable/header_title_colorstates</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <style name="header_sub_title" parent="header_title_general">
+        <item name="android:background">@drawable/header_title_colorstates</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:paddingLeft">7dp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <style name="header_reload_wrapper">
+        <item name="android:background">@color/header_background</item>
+        <item name="android:width">@dimen/header_reload_width</item>
+        <item name="android:height">@dimen/header_reload_height</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:padding">5dp</item>
+    </style>
+
+    <style name="header_reload_button">
+        <item name="android:src">@drawable/ic_action_replay</item>
+        <item name="android:background">@color/header_background</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_gravity">center_horizontal|center_vertical</item>
+    </style>
+
+    <style name="header_reload_progress" parent="android:attr/progressBarStyleSmall">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_gravity">center_horizontal|center_vertical</item>
+    </style>
+
+    <style name="header_settings_button" parent="android:attr/progressBarStyleSmall">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_gravity">center_horizontal|center_vertical</item>
+    </style>
+
+    <style name="list_item_part">
+        <item name="android:background">@drawable/list_item_colorstates</item>
+        <item name="android:textColor">@color/list_item_foreground</item>
+    </style>
+
+    <style name="list_item" parent="list_item_part">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:padding">10dp</item>
+        <item name="android:background">@drawable/list_item_colorstates</item>
+    </style>
+
+    <!-- Play button image -->
+    <style name="list_item_play_image" parent="list_item_part">
+        <item name="android:layout_width">55dp</item>
+        <item name="android:layout_height">55dp</item>
+        <item name="android:src">@drawable/play</item>
+        <item name="android:layout_alignParentLeft">true</item>
+        <item name="android:layout_centerVertical">false</item>
+    </style>
+
+    <!-- Article image -->
+    <style name="list_item_image" parent="list_item_part">
+        <item name="android:layout_width">@dimen/thumbnail_width</item>
+        <item name="android:layout_height">@dimen/thumbnail_height</item>
+        <item name="android:paddingTop">@dimen/default_padding</item>
+        <item name="android:paddingRight">@dimen/default_padding</item>
+        <item name="android:paddingBottom">@dimen/default_padding</item>
+    </style>
+
+    <!-- Article title -->
+    <style name="list_item_title" parent="list_item_part">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <!-- Article description -->
+    <style name="list_item_description" parent="list_item_part">
+        <item name="android:textSize">14sp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <!-- General style for link item pages -->
+    <style name="link_item_part">
+        <item name="android:background">@color/link_item_background</item>
+        <item name="android:textColor">@color/link_item_foreground</item>
+    </style>
+
+    <!-- General style for link item pages -->
+    <style name="link_item_layout" parent="link_item_part">
+        <item name="android:background">@color/link_item_background</item>
+        <item name="android:textColor">@color/link_item_foreground</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:padding">10dp</item>
+    </style>
+
+    <!-- General style for link item pages -->
+    <style name="link_item_header" parent="link_item_part">
+        <item name="android:textSize">24sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_gravity">center_horizontal|center_vertical</item>
+    </style>
+
+    <!-- Photo item text -->
+    <style name="photo_item_text" parent="link_item_header"></style>
+
+    <!-- Photo item image -->
+    <style name="photo_item_image" parent="link_item_part">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:padding">20dp</item>
+        <item name="android:layout_gravity">center_horizontal|center_vertical</item>
+    </style>
+
+    <!-- Video item text -->
+    <style name="video_item_text" parent="link_item_header"></style>
+
+    <!-- Video item video -->
+    <style name="video_item_video" parent="link_item_part">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_gravity">center_horizontal|center_vertical</item>
+    </style>
+
+    <!-- Web item web -->
+    <style name="web_item_web" parent="link_item_part">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:layout_gravity">center_horizontal|center_vertical</item>
+    </style>
+
+    <!-- Show buttons -->
+    <style name="show_button_text">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_margin">3dp</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:shadowColor">#000000</item>
+        <item name="android:shadowDx">1</item>
+        <item name="android:shadowDy">1</item>
+        <item name="android:shadowRadius">2</item>
+    </style>
+
+    <!-- Web item layout -->
+    <style name="fragment_web_item_layout" parent="link_item_part">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+        <!-- Override the padding, since the contents is a web page. -->
+        <item name="android:padding">0dp</item>
+    </style>
+
+    <style name="photo_gallery_item_layout" parent="link_item_part">
+        <item name="android:layout_margin">10dp</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+    </style>
+
+    <style name="photo_gallery" parent="link_item_part">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+    </style>
+
+    <style name="photo_gallery_image" parent="link_item_part">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+    </style>
+
+</resources>
