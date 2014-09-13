@@ -12,13 +12,13 @@ import android.view.ViewGroup;
  */
 public class NoContentFragment extends EPGReaderFragment {
 
-	@Override
-	public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
-		return inflater.inflate(R.layout.fragment_no_content, container, false);
-	}
+  @Override
+  public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
+    return inflater.inflate(R.layout.fragment_no_content, container, false);
+  }
 
-	@Override
-	protected void onActivityCreatedInternal(Bundle savedInstanceState) {
-	}
+  @Override
+  protected void onActivityCreatedInternal(Bundle savedInstanceState) {
+  }
 
 }

@@ -13,86 +13,84 @@ import com.jeffpalm.android.epg.EPGLinkItem;
  */
 public final class TMZLinkItem extends AbstractTMZNode<EPGLinkItem> {
 
-	private final EPGLinkItem linkItem;
+  private final EPGLinkItem linkItem;
 
-	public TMZLinkItem(TMZAdapter factory, EPGLinkItem section) {
-		super(factory);
-		this.linkItem = section;
-	}
+  public TMZLinkItem(TMZAdapter factory, EPGLinkItem section) {
+    super(factory);
+    this.linkItem = section;
+  }
 
-	public TMZLinkItem(Parcel in) {
-		super(in);
-		this.linkItem = (EPGLinkItem) in
-				.readParcelable(getClass().getClassLoader());
-	}
+  public TMZLinkItem(Parcel in) {
+    super(in);
+    this.linkItem = (EPGLinkItem) in.readParcelable(getClass().getClassLoader());
+  }
 
-	@Override
-	public EPGLinkItem getNode() {
-		return getLinkItem();
-	}
+  @Override
+  public EPGLinkItem getNode() {
+    return getLinkItem();
+  }
 
-	/** @return the underlying link item */
-	public EPGLinkItem getLinkItem() {
-		return linkItem;
-	}
+  /** @return the underlying link item */
+  public EPGLinkItem getLinkItem() {
+    return linkItem;
+  }
 
-	/** @return the list of TMZ content items */
-	public List<TMZItem<?>> getContents() {
-		return TMZFactoryHelper.getInstance().adaptAll(getFactory(),
-				linkItem.getContents());
-	}
+  /** @return the list of TMZ content items */
+  public List<TMZItem<?>> getContents() {
+    return TMZFactoryHelper.getInstance().adaptAll(getFactory(), linkItem.getContents());
+  }
 
-	/** @return the underlying thumb nail */
-	public String getThumbnail() {
-		return linkItem.getThumbnail();
-	}
+  /** @return the underlying thumb nail */
+  public String getThumbnail() {
+    return linkItem.getThumbnail();
+  }
 
-	/** @return the underlying description */
-	public String getDescription() {
-		return linkItem.getDescription();
-	}
+  /** @return the underlying description */
+  public String getDescription() {
+    return linkItem.getDescription();
+  }
 
-	// TODO(jeff): Needs test
-	/** @return whether this node is a video link. */
-	public boolean isVideo() {
-		for (EPGContent c : linkItem.getContents()) {
-			if (c.isVideo()) {
-				return true;
-			}
-		}
-		return false;
-	}
+  // TODO(jeff): Needs test
+  /** @return whether this node is a video link. */
+  public boolean isVideo() {
+    for (EPGContent c : linkItem.getContents()) {
+      if (c.isVideo()) {
+        return true;
+      }
+    }
+    return false;
+  }
 
-	// TODO(jeff): Needs test
-	/** @return whether this node contains all photo links. */
-	public boolean isPhotos() {
-		for (EPGContent c : linkItem.getContents()) {
-			if (!c.isPhoto()) {
-				return false;
-			}
-		}
-		return true;
-	}
+  // TODO(jeff): Needs test
+  /** @return whether this node contains all photo links. */
+  public boolean isPhotos() {
+    for (EPGContent c : linkItem.getContents()) {
+      if (!c.isPhoto()) {
+        return false;
+      }
+    }
+    return true;
+  }
 
-	/** @return the underlying share url */
-	public String getShareUrl() {
-		return linkItem.getShareUrl();
-	}
+  /** @return the underlying share url */
+  public String getShareUrl() {
+    return linkItem.getShareUrl();
+  }
 
-	@SuppressWarnings("rawtypes")
-	public static final Parcelable.Creator CREATOR = new Parcelable.Creator() {
-		public TMZLinkItem createFromParcel(Parcel in) {
-			return new TMZLinkItem(in);
-		}
+  @SuppressWarnings("rawtypes")
+  public static final Parcelable.Creator CREATOR = new Parcelable.Creator() {
+    public TMZLinkItem createFromParcel(Parcel in) {
+      return new TMZLinkItem(in);
+    }
 
-		public TMZLinkItem[] newArray(int size) {
-			return new TMZLinkItem[size];
-		}
-	};
+    public TMZLinkItem[] newArray(int size) {
+      return new TMZLinkItem[size];
+    }
+  };
 
-	@Override
-	protected void writeToParcelAfterFactory(Parcel dest, int flags) {
-		dest.writeParcelable(linkItem, flags);
-	}
+  @Override
+  protected void writeToParcelAfterFactory(Parcel dest, int flags) {
+    dest.writeParcelable(linkItem, flags);
+  }
 
 }

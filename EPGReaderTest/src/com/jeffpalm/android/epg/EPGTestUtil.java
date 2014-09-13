@@ -11,12 +11,13 @@ import com.jeffpalm.android.epg.EPGParser;
 
 public final class EPGTestUtil {
 
-  private EPGTestUtil() {}
-  
+  private EPGTestUtil() {
+  }
+
   /** File names of feeds. */
   public final static class Feeds {
-  	public final static String FULL = "tmz_feed.xml";
-  	public final static String PHOTO_GALLERY = "tmz_photoGallery.xml";
+    public final static String FULL = "tmz_feed.xml";
+    public final static String PHOTO_GALLERY = "tmz_photoGallery.xml";
   }
 
   /**

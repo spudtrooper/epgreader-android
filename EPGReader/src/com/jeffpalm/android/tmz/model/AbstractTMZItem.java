@@ -7,8 +7,7 @@ import com.jeffpalm.android.epg.EPGItem;
 /**
  * Holds an EPGItem and factory.
  * 
- * @param <N>
- *          type of the EPGItem
+ * @param <N> type of the EPGItem
  */
 abstract class AbstractTMZItem<I extends EPGItem> extends TMZFactoryHolder implements TMZItem<I> {
 
@@ -20,11 +19,13 @@ abstract class AbstractTMZItem<I extends EPGItem> extends TMZFactoryHolder imple
     super(in);
   }
 
-  @Override public int hashCode() {
+  @Override
+  public int hashCode() {
     return getItem().hashCode();
   }
 
-  @Override public boolean equals(Object o) {
+  @Override
+  public boolean equals(Object o) {
     if (!(o instanceof TMZItem)) {
       return false;
     }

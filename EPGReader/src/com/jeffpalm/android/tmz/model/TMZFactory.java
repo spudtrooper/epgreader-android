@@ -20,25 +20,25 @@ import android.content.Context;
 
 public class TMZFactory {
 
-	public TMZ read(Context context, String url) throws IllegalStateException,
-			XmlPullParserException, IOException {
-		EPGParser parser = new EPGParser();
-		EPG epg = parser.parse(openStream(url, 10000));
-		TMZ tmz = new TMZ(epg);
-		return tmz;
-	}
+  public TMZ read(Context context, String url) throws IllegalStateException,
+      XmlPullParserException, IOException {
+    EPGParser parser = new EPGParser();
+    EPG epg = parser.parse(openStream(url, 10000));
+    TMZ tmz = new TMZ(epg);
+    return tmz;
+  }
 
-	/** Opens the input stream for the url. */
-	private static InputStream openStream(String url, int connectionTimeout)
-			throws IllegalStateException, IOException {
-		HttpGet httpGet = new HttpGet(url);
-		HttpParams httpParameters = new BasicHttpParams();
-		HttpConnectionParams.setConnectionTimeout(httpParameters, connectionTimeout);
-		HttpClient httpClient = new DefaultHttpClient(httpParameters);
-		HttpResponse response = httpClient.execute(httpGet, new BasicHttpContext());
-		if (response.getStatusLine().getStatusCode() == 200) {
-			return response.getEntity().getContent();
-		}
-		return null;
-	}
+  /** Opens the input stream for the url. */
+  private static InputStream openStream(String url, int connectionTimeout)
+      throws IllegalStateException, IOException {
+    HttpGet httpGet = new HttpGet(url);
+    HttpParams httpParameters = new BasicHttpParams();
+    HttpConnectionParams.setConnectionTimeout(httpParameters, connectionTimeout);
+    HttpClient httpClient = new DefaultHttpClient(httpParameters);
+    HttpResponse response = httpClient.execute(httpGet, new BasicHttpContext());
+    if (response.getStatusLine().getStatusCode() == 200) {
+      return response.getEntity().getContent();
+    }
+    return null;
+  }
 }

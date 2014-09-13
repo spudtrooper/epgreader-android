@@ -5,28 +5,27 @@ import android.support.v4.app.ListFragment;
 
 abstract class EPGReaderItemListFragment extends ListFragment implements OnActivityCreatedNotifier {
 
-	private final DefaultOnActivityCreatedNotifier onCreateNotifier = new DefaultOnActivityCreatedNotifier();
+  private final DefaultOnActivityCreatedNotifier onCreateNotifier = new DefaultOnActivityCreatedNotifier();
 
-	@Override
-	public final void setListener(Listener listener) {
-		onCreateNotifier.setListener(listener);
-	}
+  @Override
+  public final void setListener(Listener listener) {
+    onCreateNotifier.setListener(listener);
+  }
 
-	@Override
-	public final void onActivityCreated(Bundle savedInstanceState) {
-		super.onActivityCreated(savedInstanceState);
-		onActivityCreatedInternal(savedInstanceState);
-		onCreateNotifier.notifyListener();
-	}
+  @Override
+  public final void onActivityCreated(Bundle savedInstanceState) {
+    super.onActivityCreated(savedInstanceState);
+    onActivityCreatedInternal(savedInstanceState);
+    onCreateNotifier.notifyListener();
+  }
 
-	/**
-	 * Subclasses should implement this instead of
-	 * {@link #onActivityCreated(Bundle)}. This class will take care of calling
-	 * the super implementation of {@link #onActivityCreated(Bundle)} and
-	 * notifying the listener.
-	 * 
-	 * @param savedInstanceState
-	 */
-	protected abstract void onActivityCreatedInternal(Bundle savedInstanceState);
+  /**
+   * Subclasses should implement this instead of {@link #onActivityCreated(Bundle)}. This class will
+   * take care of calling the super implementation of {@link #onActivityCreated(Bundle)} and
+   * notifying the listener.
+   * 
+   * @param savedInstanceState
+   */
+  protected abstract void onActivityCreatedInternal(Bundle savedInstanceState);
 
 }

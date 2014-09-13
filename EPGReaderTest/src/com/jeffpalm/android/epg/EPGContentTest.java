@@ -14,7 +14,8 @@ public class EPGContentTest extends EPGItemTestCase {
     doTestParcelable();
   }
 
-  @Override protected void runTestParcelable(EPG epg) {
+  @Override
+  protected void runTestParcelable(EPG epg) {
     EPGContent content = epg.getSections().get(0).getLinkItems().get(0).getContents().get(0);
     Bundle bundle = new Bundle();
     String key = "key";

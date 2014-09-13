@@ -23,11 +23,13 @@ abstract class TMZFactoryHolder implements Parcelable {
     return factory;
   }
 
-  @Override public int describeContents() {
+  @Override
+  public int describeContents() {
     return 0;
   }
 
-  @Override public final void writeToParcel(Parcel dest, int flags) {
+  @Override
+  public final void writeToParcel(Parcel dest, int flags) {
     dest.writeParcelable(factory, flags);
     writeToParcelAfterFactory(dest, flags);
   }

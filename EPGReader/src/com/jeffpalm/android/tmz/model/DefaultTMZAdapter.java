@@ -14,58 +14,58 @@ import com.jeffpalm.android.epg.EPGSection;
  */
 public final class DefaultTMZAdapter implements TMZAdapter {
 
-	/** @return a shared instance of {@link DefaultTMZAdapter}. */
-	public static DefaultTMZAdapter getInstance() {
-		return Holder.INSTANCE;
-	}
+  /** @return a shared instance of {@link DefaultTMZAdapter}. */
+  public static DefaultTMZAdapter getInstance() {
+    return Holder.INSTANCE;
+  }
 
-	public DefaultTMZAdapter(Parcel in) {
+  public DefaultTMZAdapter(Parcel in) {
 
-	}
+  }
 
-	public DefaultTMZAdapter() {
+  public DefaultTMZAdapter() {
 
-	}
+  }
 
-	private final static class Holder {
-		public final static DefaultTMZAdapter INSTANCE = new DefaultTMZAdapter();
-	}
+  private final static class Holder {
+    public final static DefaultTMZAdapter INSTANCE = new DefaultTMZAdapter();
+  }
 
-	@Override
-	public TMZItem<?> adapt(EPGItem item) {
-		if (item instanceof EPGLinkItem) {
-			return new TMZLinkItem(this, (EPGLinkItem) item);
-		}
-		if (item instanceof EPGSection) {
-			return new TMZSection(this, (EPGSection) item);
-		}
-		if (item instanceof EPGContent) {
-			return new TMZContent(this, (EPGContent) item);
-		}
-		if (item instanceof EPGIndex) {
-			return new TMZIndex(this, (EPGIndex) item);
-		}
-		throw new RuntimeException("Cannot convert item of class " + item.getClass());
-	}
+  @Override
+  public TMZItem<?> adapt(EPGItem item) {
+    if (item instanceof EPGLinkItem) {
+      return new TMZLinkItem(this, (EPGLinkItem) item);
+    }
+    if (item instanceof EPGSection) {
+      return new TMZSection(this, (EPGSection) item);
+    }
+    if (item instanceof EPGContent) {
+      return new TMZContent(this, (EPGContent) item);
+    }
+    if (item instanceof EPGIndex) {
+      return new TMZIndex(this, (EPGIndex) item);
+    }
+    throw new RuntimeException("Cannot convert item of class " + item.getClass());
+  }
 
-	@SuppressWarnings("rawtypes")
-	public static final Parcelable.Creator CREATOR = new Parcelable.Creator() {
-		public DefaultTMZAdapter createFromParcel(Parcel in) {
-			return new DefaultTMZAdapter(in);
-		}
+  @SuppressWarnings("rawtypes")
+  public static final Parcelable.Creator CREATOR = new Parcelable.Creator() {
+    public DefaultTMZAdapter createFromParcel(Parcel in) {
+      return new DefaultTMZAdapter(in);
+    }
 
-		public DefaultTMZAdapter[] newArray(int size) {
-			return new DefaultTMZAdapter[size];
-		}
-	};
+    public DefaultTMZAdapter[] newArray(int size) {
+      return new DefaultTMZAdapter[size];
+    }
+  };
 
-	@Override
-	public int describeContents() {
-		return 0;
-	}
+  @Override
+  public int describeContents() {
+    return 0;
+  }
 
-	@Override
-	public void writeToParcel(Parcel dest, int flags) {
-		// Nothing, there is no state
-	}
+  @Override
+  public void writeToParcel(Parcel dest, int flags) {
+    // Nothing, there is no state
+  }
 }

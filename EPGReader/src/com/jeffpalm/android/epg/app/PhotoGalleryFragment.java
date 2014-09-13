@@ -18,49 +18,49 @@ import com.jeffpalm.android.tmz.model.TMZContent;
 @SuppressWarnings("deprecation")
 public class PhotoGalleryFragment extends EPGReaderFragment {
 
-	public static final String TITLE = "title";
-	public static final String CONTENT_ITEMS = "content.items";
+  public static final String TITLE = "title";
+  public static final String CONTENT_ITEMS = "content.items";
 
-	private UrlHandler urlHandler;
+  private UrlHandler urlHandler;
 
-	interface UrlHandler {
-		void show(String url);
-	}
+  interface UrlHandler {
+    void show(String url);
+  }
 
-	public void setUrlHandler(UrlHandler urlHandler) {
-		this.urlHandler = urlHandler;
-	}
+  public void setUrlHandler(UrlHandler urlHandler) {
+    this.urlHandler = urlHandler;
+  }
 
-	@Override
-	protected void onActivityCreatedInternal(Bundle savedInstanceState) {
-		Bundle args = getArguments();
-		String title = args.getString(TITLE);
-		ArrayList<TMZContent> contentItems = args.getParcelableArrayList(CONTENT_ITEMS);
+  @Override
+  protected void onActivityCreatedInternal(Bundle savedInstanceState) {
+    Bundle args = getArguments();
+    String title = args.getString(TITLE);
+    ArrayList<TMZContent> contentItems = args.getParcelableArrayList(CONTENT_ITEMS);
 
-		TextView titleView = (TextView) getView().findViewById(R.id.titleText);
-		titleView.setText(title);
+    TextView titleView = (TextView) getView().findViewById(R.id.titleText);
+    titleView.setText(title);
 
-		Gallery gallery = (Gallery) getView().findViewById(R.id.gallery);
-		gallery.setSpacing(1);
-		PhotoGalleryAdapter adapter = new PhotoGalleryAdapter(getActivity(), contentItems);
-		adapter.setUrlHandler(new PhotoGalleryAdapter.UrlHandler() {
-			@Override
-			public void show(String url) {
-				showUrl(url);
-			}
-		});
-		gallery.setAdapter(adapter);
-	}
+    Gallery gallery = (Gallery) getView().findViewById(R.id.gallery);
+    gallery.setSpacing(1);
+    PhotoGalleryAdapter adapter = new PhotoGalleryAdapter(getActivity(), contentItems);
+    adapter.setUrlHandler(new PhotoGalleryAdapter.UrlHandler() {
+      @Override
+      public void show(String url) {
+        showUrl(url);
+      }
+    });
+    gallery.setAdapter(adapter);
+  }
 
-	private void showUrl(String url) {
-		if (urlHandler != null) {
-			urlHandler.show(url);
-		}
-	}
+  private void showUrl(String url) {
+    if (urlHandler != null) {
+      urlHandler.show(url);
+    }
+  }
 
-	@Override
-	public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
-		View view = inflater.inflate(R.layout.fragment_photo_gallery, container, false);
-		return view;
-	}
+  @Override
+  public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
+    View view = inflater.inflate(R.layout.fragment_photo_gallery, container, false);
+    return view;
+  }
 }

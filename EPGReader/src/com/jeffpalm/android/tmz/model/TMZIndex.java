@@ -25,7 +25,8 @@ public final class TMZIndex extends AbstractTMZItem<EPGIndex> {
     this.index = in.readParcelable(TMZIndex.class.getClassLoader());
   }
 
-  @Override public EPGIndex getItem() {
+  @Override
+  public EPGIndex getItem() {
     return getIndex();
   }
 
@@ -53,7 +54,8 @@ public final class TMZIndex extends AbstractTMZItem<EPGIndex> {
     }
   };
 
-  @Override protected void writeToParcelAfterFactory(Parcel dest, int flags) {
+  @Override
+  protected void writeToParcelAfterFactory(Parcel dest, int flags) {
     dest.writeParcelable(index, flags);
   }
 

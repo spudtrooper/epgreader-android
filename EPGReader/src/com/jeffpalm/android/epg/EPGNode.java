@@ -5,9 +5,9 @@ package com.jeffpalm.android.epg;
  */
 public interface EPGNode extends EPGItem {
 
-	/** Returns the id of this item. */
-	String getId();
+  /** Returns the id of this item. */
+  String getId();
 
-	/** Returns the readable name of this item. */
-	String getName();
+  /** Returns the readable name of this item. */
+  String getName();
 }

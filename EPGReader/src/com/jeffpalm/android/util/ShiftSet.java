@@ -4,23 +4,22 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * A set of values with operations to take from the front and shift, take from
- * the back and shift, and peek a value.
+ * A set of values with operations to take from the front and shift, take from the back and shift,
+ * and peek a value.
  * 
- * @param <T>
- *          the type of the values stored
+ * @param <T> the type of the values stored
  */
 public final class ShiftSet<T> {
 
   private final List<T> values = new ArrayList<T>();
 
-  public ShiftSet() {}
+  public ShiftSet() {
+  }
 
   /**
    * Constructs a shift set using the values from {@code list}.
    * 
-   * @param values
-   *          source values
+   * @param values source values
    */
   public ShiftSet(T... values) {
     addAll(values);
@@ -29,8 +28,7 @@ public final class ShiftSet<T> {
   /**
    * Adds all values from {@code list} to {@code this}.
    * 
-   * @param list
-   *          source values
+   * @param list source values
    */
   public void addAll(T... values) {
     if (values == null) {

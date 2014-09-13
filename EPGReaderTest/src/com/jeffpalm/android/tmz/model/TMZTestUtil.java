@@ -14,7 +14,8 @@ import com.jeffpalm.android.tmz.model.TMZ;
  */
 public final class TMZTestUtil {
 
-  private TMZTestUtil() {}
+  private TMZTestUtil() {
+  }
 
   /**
    * @param context

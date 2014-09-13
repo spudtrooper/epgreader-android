@@ -7,8 +7,7 @@ import com.jeffpalm.android.epg.EPGNode;
 /**
  * Holds an EPGNode and factory.
  * 
- * @param <N>
- *          type of the EPGNode
+ * @param <N> type of the EPGNode
  */
 abstract class AbstractTMZNode<N extends EPGNode> extends TMZFactoryHolder implements TMZNode<N> {
 
@@ -20,7 +19,8 @@ abstract class AbstractTMZNode<N extends EPGNode> extends TMZFactoryHolder imple
     super(in);
   }
 
-  @Override public final N getItem() {
+  @Override
+  public final N getItem() {
     return getNode();
   }
 

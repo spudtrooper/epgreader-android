@@ -4,16 +4,16 @@ import com.jeffpalm.android.epg.app.OnActivityCreatedNotifier.Listener;
 
 final class DefaultOnActivityCreatedNotifier {
 
-	private Listener mListener;
+  private Listener mListener;
 
-	public void setListener(Listener listener) {
-		mListener = listener;
-	}
+  public void setListener(Listener listener) {
+    mListener = listener;
+  }
 
-	public void notifyListener() {
-		if (mListener != null) {
-			mListener.onActivityCreatedDone();
-		}
-	}
+  public void notifyListener() {
+    if (mListener != null) {
+      mListener.onActivityCreatedDone();
+    }
+  }
 
 }

@@ -15,8 +15,7 @@ public final class TMZIndexWrapper {
   }
 
   /**
-   * @param id
-   *          ID of the section
+   * @param id ID of the section
    * @return TMZSection for the id
    */
   public TMZSection getSection(String id) {

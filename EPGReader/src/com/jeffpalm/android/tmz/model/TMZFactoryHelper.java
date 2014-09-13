@@ -34,8 +34,7 @@ public final class TMZFactoryHelper {
   }
 
   /**
-   * Adapts a collection of EPGItems to a list of TMZItems into a type-safe
-   * collection.
+   * Adapts a collection of EPGItems to a list of TMZItems into a type-safe collection.
    * 
    * @return the adapted list of {@code TMZItem}
    */

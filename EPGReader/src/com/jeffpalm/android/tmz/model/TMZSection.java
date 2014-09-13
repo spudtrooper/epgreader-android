@@ -25,7 +25,8 @@ public final class TMZSection extends AbstractTMZNode<EPGSection> {
     this.section = (EPGSection) in.readParcelable(getClass().getClassLoader());
   }
 
-  @Override public EPGSection getNode() {
+  @Override
+  public EPGSection getNode() {
     return getSection();
   }
 
@@ -74,7 +75,8 @@ public final class TMZSection extends AbstractTMZNode<EPGSection> {
     }
   };
 
-  @Override protected void writeToParcelAfterFactory(Parcel dest, int flags) {
+  @Override
+  protected void writeToParcelAfterFactory(Parcel dest, int flags) {
     dest.writeParcelable(section, flags);
   }
 

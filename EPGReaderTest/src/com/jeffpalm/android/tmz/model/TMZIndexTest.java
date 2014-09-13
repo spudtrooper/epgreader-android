@@ -13,7 +13,8 @@ public class TMZIndexTest extends TMZItemTestCase {
     doTestParcelable();
   }
 
-  @Override protected void runTestParcelable(TMZ tmz) {
+  @Override
+  protected void runTestParcelable(TMZ tmz) {
     TMZIndex index = tmz.getIndex();
     Bundle bundle = new Bundle();
     String key = "key";

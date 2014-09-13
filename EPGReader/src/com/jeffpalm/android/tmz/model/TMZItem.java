@@ -6,8 +6,7 @@ import com.jeffpalm.android.epg.EPGItem;
 
 /**
  * 
- * @param <I>
- *          the underlying {@code EPGItem}
+ * @param <I> the underlying {@code EPGItem}
  */
 public interface TMZItem<I extends EPGItem> extends Parcelable {
 

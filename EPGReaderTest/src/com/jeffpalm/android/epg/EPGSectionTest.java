@@ -15,7 +15,8 @@ public class EPGSectionTest extends EPGItemTestCase {
     doTestParcelable();
   }
 
-  @Override protected void runTestParcelable(EPG epg) {
+  @Override
+  protected void runTestParcelable(EPG epg) {
     EPGSection section = epg.getSections().get(0);
     Bundle bundle = new Bundle();
     String key = "key";

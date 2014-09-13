@@ -11,73 +11,73 @@ import android.os.Parcelable;
  */
 public class EPGIndex extends AbstractEPGItem implements EPGItem {
 
-	private final List<EPGSection> sections;
+  private final List<EPGSection> sections;
 
-	private EPGIndex(List<EPGSection> sections) {
-		this.sections = sections;
-	}
+  private EPGIndex(List<EPGSection> sections) {
+    this.sections = sections;
+  }
 
-	public List<EPGSection> getSections() {
-		return sections;
-	}
+  public List<EPGSection> getSections() {
+    return sections;
+  }
 
-	public static class Builder {
-		private final List<EPGSection> sections = new ArrayList<EPGSection>();
+  public static class Builder {
+    private final List<EPGSection> sections = new ArrayList<EPGSection>();
 
-		private Builder() {
-		}
+    private Builder() {
+    }
 
-		public Builder withSection(EPGSection section) {
-			sections.add(section);
-			return this;
-		}
+    public Builder withSection(EPGSection section) {
+      sections.add(section);
+      return this;
+    }
 
-		public EPGIndex build() {
-			return new EPGIndex(sections);
-		}
+    public EPGIndex build() {
+      return new EPGIndex(sections);
+    }
 
-	}
+  }
 
-	@Override
-	public int hashCode() {
-		return sections.hashCode();
-	}
+  @Override
+  public int hashCode() {
+    return sections.hashCode();
+  }
 
-	@Override
-	public boolean equals(Object o) {
-		if (!(o instanceof EPGIndex)) {
-			return false;
-		}
-		EPGIndex that = (EPGIndex) o;
-		return equalsOrNull(this.sections, that.sections);
-	}
+  @Override
+  public boolean equals(Object o) {
+    if (!(o instanceof EPGIndex)) {
+      return false;
+    }
+    EPGIndex that = (EPGIndex) o;
+    return equalsOrNull(this.sections, that.sections);
+  }
 
-	public static Builder builder() {
-		return new Builder();
-	}
+  public static Builder builder() {
+    return new Builder();
+  }
 
-	// -----------------------------------------------------------------------
-	// Parcelable
-	// -----------------------------------------------------------------------
+  // -----------------------------------------------------------------------
+  // Parcelable
+  // -----------------------------------------------------------------------
 
-	public EPGIndex(Parcel in) {
-		this.sections = new ArrayList<EPGSection>();
-		in.readList(this.sections, EPGContent.class.getClassLoader());
-	}
+  public EPGIndex(Parcel in) {
+    this.sections = new ArrayList<EPGSection>();
+    in.readList(this.sections, EPGContent.class.getClassLoader());
+  }
 
-	@Override
-	public void writeToParcel(Parcel dest, int flags) {
-		dest.writeList(sections);
-	}
+  @Override
+  public void writeToParcel(Parcel dest, int flags) {
+    dest.writeList(sections);
+  }
 
-	@SuppressWarnings("rawtypes")
-	public static final Parcelable.Creator CREATOR = new Parcelable.Creator() {
-		public EPGContent createFromParcel(Parcel in) {
-			return new EPGContent(in);
-		}
+  @SuppressWarnings("rawtypes")
+  public static final Parcelable.Creator CREATOR = new Parcelable.Creator() {
+    public EPGContent createFromParcel(Parcel in) {
+      return new EPGContent(in);
+    }
 
-		public EPGContent[] newArray(int size) {
-			return new EPGContent[size];
-		}
-	};
+    public EPGContent[] newArray(int size) {
+      return new EPGContent[size];
+    }
+  };
 }

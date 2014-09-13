@@ -13,7 +13,8 @@ public class TMZContentTest extends TMZItemTestCase {
     doTestParcelable();
   }
 
-  @Override protected void runTestParcelable(TMZ tmz) {
+  @Override
+  protected void runTestParcelable(TMZ tmz) {
     TMZContent content = (TMZContent) tmz.getSection().getLinkItems().get(0).getContents().get(0);
     Bundle bundle = new Bundle();
     String key = "key";

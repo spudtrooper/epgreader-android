@@ -14,7 +14,8 @@ public class EPGIndexTest extends EPGItemTestCase {
     doTestParcelable();
   }
 
-  @Override protected void runTestParcelable(EPG epg) {
+  @Override
+  protected void runTestParcelable(EPG epg) {
     EPGIndex index = epg.getEgpIndex();
     Bundle bundle = new Bundle();
     String key = "key";

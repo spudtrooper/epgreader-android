@@ -2,23 +2,23 @@ package com.jeffpalm.android.epg.app;
 
 public enum Feature {
 
-	/** Whether to enable videos. */
-	Videos(false),
-	
-	/** Whether to enable photos. */
-	Photos(true),
-	
-	/** Whether to enable TV. */
-	TV(false);
+  /** Whether to enable videos. */
+  Videos(false),
 
-	private boolean enabled;
+  /** Whether to enable photos. */
+  Photos(true),
 
-	private Feature(boolean enabled) {
-		this.enabled = enabled;
-	}
+  /** Whether to enable TV. */
+  TV(false);
 
-	public boolean isEnabled() {
-		return enabled;
-	}
+  private boolean enabled;
+
+  private Feature(boolean enabled) {
+    this.enabled = enabled;
+  }
+
+  public boolean isEnabled() {
+    return enabled;
+  }
 
 }
